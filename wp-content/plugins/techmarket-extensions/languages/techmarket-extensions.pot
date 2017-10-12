@@ -1,0 +1,2353 @@
+# Copyright (C) 2017 shaikrilwan
+# This file is distributed under the same license as the Techmarket Extensions package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Techmarket Extensions 1.1.0\n"
+"Report-Msgid-Bugs-To: https://madrasthemes.freshdesk.com/\n"
+"POT-Creation-Date: 2017-09-19 14:59:39+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Techmarket POT <support@transvelo.com>\n"
+"X-Generator: grunt-wp-i18n1.0.0\n"
+
+#: modules/js_composer/config/map.php:12 modules/js_composer/config/map.php:14
+#: modules/kingcomposer/maps.php:13 modules/kingcomposer/maps.php:14
+msgid "3-2-3 Products Cards Tabs"
+msgstr ""
+
+#: modules/js_composer/config/map.php:15 modules/js_composer/config/map.php:97
+#: modules/js_composer/config/map.php:173
+#: modules/js_composer/config/map.php:244
+#: modules/js_composer/config/map.php:328
+#: modules/js_composer/config/map.php:417
+#: modules/js_composer/config/map.php:473
+#: modules/js_composer/config/map.php:563
+#: modules/js_composer/config/map.php:706
+#: modules/js_composer/config/map.php:784
+#: modules/js_composer/config/map.php:817
+#: modules/js_composer/config/map.php:838
+#: modules/js_composer/config/map.php:864
+#: modules/js_composer/config/map.php:915
+#: modules/js_composer/config/map.php:987
+#: modules/js_composer/config/map.php:1083
+#: modules/js_composer/config/map.php:1206
+#: modules/js_composer/config/map.php:1279
+#: modules/js_composer/config/map.php:1336
+#: modules/js_composer/config/map.php:1499
+#: modules/js_composer/config/map.php:1715
+#: modules/js_composer/config/map.php:1900
+#: modules/js_composer/config/map.php:2051
+#: modules/js_composer/config/map.php:2231
+#: modules/js_composer/config/map.php:2400
+#: modules/js_composer/config/map.php:2517
+#: modules/js_composer/config/map.php:2633
+#: modules/js_composer/config/map.php:2734
+#: modules/js_composer/config/map.php:2805
+#: modules/js_composer/config/map.php:2839 modules/kingcomposer/maps.php:15
+#: modules/kingcomposer/maps.php:108 modules/kingcomposer/maps.php:194
+#: modules/kingcomposer/maps.php:276 modules/kingcomposer/maps.php:375
+#: modules/kingcomposer/maps.php:475 modules/kingcomposer/maps.php:529
+#: modules/kingcomposer/maps.php:618 modules/kingcomposer/maps.php:770
+#: modules/kingcomposer/maps.php:853 modules/kingcomposer/maps.php:892
+#: modules/kingcomposer/maps.php:914 modules/kingcomposer/maps.php:942
+#: modules/kingcomposer/maps.php:998 modules/kingcomposer/maps.php:1079
+#: modules/kingcomposer/maps.php:1175 modules/kingcomposer/maps.php:1309
+#: modules/kingcomposer/maps.php:1387 modules/kingcomposer/maps.php:1441
+#: modules/kingcomposer/maps.php:1615 modules/kingcomposer/maps.php:1848
+#: modules/kingcomposer/maps.php:2048 modules/kingcomposer/maps.php:2214
+#: modules/kingcomposer/maps.php:2405 modules/kingcomposer/maps.php:2583
+#: modules/kingcomposer/maps.php:2709 modules/kingcomposer/maps.php:2839
+#: modules/kingcomposer/maps.php:2952 modules/kingcomposer/maps.php:3027
+#: modules/kingcomposer/maps.php:3055 modules/kingcomposer/maps.php:3174
+msgid "Techmarket Elements"
+msgstr ""
+
+#: modules/js_composer/config/map.php:20 modules/js_composer/config/map.php:102
+#: modules/js_composer/config/map.php:1504
+#: modules/js_composer/config/map.php:1720
+#: modules/js_composer/config/map.php:1905
+#: modules/js_composer/config/map.php:2522 modules/kingcomposer/maps.php:21
+#: modules/kingcomposer/maps.php:114 modules/kingcomposer/maps.php:1621
+#: modules/kingcomposer/maps.php:1854 modules/kingcomposer/maps.php:2054
+#: modules/kingcomposer/maps.php:2715
+msgid "Section Title"
+msgstr ""
+
+#: modules/js_composer/config/map.php:22 modules/js_composer/config/map.php:104
+#: modules/js_composer/config/map.php:1506
+#: modules/js_composer/config/map.php:1722
+#: modules/js_composer/config/map.php:1907
+#: modules/js_composer/config/map.php:2524 modules/kingcomposer/maps.php:23
+#: modules/kingcomposer/maps.php:116 modules/kingcomposer/maps.php:1623
+#: modules/kingcomposer/maps.php:1856 modules/kingcomposer/maps.php:2056
+#: modules/kingcomposer/maps.php:2717
+msgid "Enter section title."
+msgstr ""
+
+#: modules/js_composer/config/map.php:26 modules/kingcomposer/maps.php:28
+msgid "Default Active Tab"
+msgstr ""
+
+#: modules/js_composer/config/map.php:28 modules/kingcomposer/maps.php:30
+msgid "Enter default active tab id."
+msgstr ""
+
+#: modules/js_composer/config/map.php:37 modules/js_composer/config/map.php:113
+#: modules/js_composer/config/map.php:208
+#: modules/js_composer/config/map.php:284
+#: modules/js_composer/config/map.php:333
+#: modules/js_composer/config/map.php:422
+#: modules/js_composer/config/map.php:568
+#: modules/js_composer/config/map.php:711
+#: modules/js_composer/config/map.php:843
+#: modules/js_composer/config/map.php:869
+#: modules/js_composer/config/map.php:951
+#: modules/js_composer/config/map.php:992
+#: modules/js_composer/config/map.php:1094
+#: modules/js_composer/config/map.php:1211
+#: modules/js_composer/config/map.php:1284
+#: modules/js_composer/config/map.php:1341
+#: modules/js_composer/config/map.php:1527
+#: modules/js_composer/config/map.php:1743
+#: modules/js_composer/config/map.php:1922
+#: modules/js_composer/config/map.php:2056
+#: modules/js_composer/config/map.php:2236
+#: modules/js_composer/config/map.php:2411
+#: modules/js_composer/config/map.php:2545
+#: modules/js_composer/config/map.php:2638
+#: modules/js_composer/config/map.php:2739 modules/kingcomposer/maps.php:44
+#: modules/kingcomposer/maps.php:130 modules/kingcomposer/maps.php:235
+#: modules/kingcomposer/maps.php:326 modules/kingcomposer/maps.php:381
+#: modules/kingcomposer/maps.php:481 modules/kingcomposer/maps.php:624
+#: modules/kingcomposer/maps.php:776 modules/kingcomposer/maps.php:920
+#: modules/kingcomposer/maps.php:948 modules/kingcomposer/maps.php:1039
+#: modules/kingcomposer/maps.php:1085 modules/kingcomposer/maps.php:1188
+#: modules/kingcomposer/maps.php:1315 modules/kingcomposer/maps.php:1393
+#: modules/kingcomposer/maps.php:1447 modules/kingcomposer/maps.php:1648
+#: modules/kingcomposer/maps.php:1881 modules/kingcomposer/maps.php:2076
+#: modules/kingcomposer/maps.php:2220 modules/kingcomposer/maps.php:2411
+#: modules/kingcomposer/maps.php:2596 modules/kingcomposer/maps.php:2742
+#: modules/kingcomposer/maps.php:2845 modules/kingcomposer/maps.php:2958
+msgid "Title"
+msgstr ""
+
+#: modules/js_composer/config/map.php:39 modules/js_composer/config/map.php:115
+#: modules/js_composer/config/map.php:335
+#: modules/js_composer/config/map.php:424
+#: modules/js_composer/config/map.php:570
+#: modules/js_composer/config/map.php:713
+#: modules/js_composer/config/map.php:845
+#: modules/js_composer/config/map.php:994
+#: modules/js_composer/config/map.php:1096
+#: modules/js_composer/config/map.php:1213
+#: modules/js_composer/config/map.php:1286
+#: modules/js_composer/config/map.php:1343
+#: modules/js_composer/config/map.php:1529
+#: modules/js_composer/config/map.php:1745
+#: modules/js_composer/config/map.php:1924
+#: modules/js_composer/config/map.php:2547 modules/kingcomposer/maps.php:46
+#: modules/kingcomposer/maps.php:132 modules/kingcomposer/maps.php:383
+#: modules/kingcomposer/maps.php:483 modules/kingcomposer/maps.php:626
+#: modules/kingcomposer/maps.php:778 modules/kingcomposer/maps.php:1087
+#: modules/kingcomposer/maps.php:1190 modules/kingcomposer/maps.php:1317
+#: modules/kingcomposer/maps.php:1395 modules/kingcomposer/maps.php:1449
+#: modules/kingcomposer/maps.php:1650 modules/kingcomposer/maps.php:1883
+#: modules/kingcomposer/maps.php:2078 modules/kingcomposer/maps.php:2222
+#: modules/kingcomposer/maps.php:2413 modules/kingcomposer/maps.php:2598
+#: modules/kingcomposer/maps.php:2744 modules/kingcomposer/maps.php:2847
+msgid "Enter title."
+msgstr ""
+
+#: modules/js_composer/config/map.php:43 modules/js_composer/config/map.php:119
+#: modules/js_composer/config/map.php:478
+#: modules/js_composer/config/map.php:574
+#: modules/js_composer/config/map.php:717
+#: modules/js_composer/config/map.php:998
+#: modules/js_composer/config/map.php:1347
+#: modules/js_composer/config/map.php:1533
+#: modules/js_composer/config/map.php:1749
+#: modules/js_composer/config/map.php:1928
+#: modules/js_composer/config/map.php:2062
+#: modules/js_composer/config/map.php:2242
+#: modules/js_composer/config/map.php:2428
+#: modules/js_composer/config/map.php:2551
+#: modules/js_composer/config/map.php:2644 modules/kingcomposer/maps.php:51
+#: modules/kingcomposer/maps.php:137 modules/kingcomposer/maps.php:535
+#: modules/kingcomposer/maps.php:631 modules/kingcomposer/maps.php:783
+#: modules/kingcomposer/maps.php:1092 modules/kingcomposer/maps.php:1454
+#: modules/kingcomposer/maps.php:1655 modules/kingcomposer/maps.php:1888
+#: modules/kingcomposer/maps.php:2083 modules/kingcomposer/maps.php:2227
+#: modules/kingcomposer/maps.php:2418 modules/kingcomposer/maps.php:2614
+#: modules/kingcomposer/maps.php:2749 modules/kingcomposer/maps.php:2852
+msgid "Shortcode"
+msgstr ""
+
+#: modules/js_composer/config/map.php:46 modules/js_composer/config/map.php:122
+#: modules/js_composer/config/map.php:481
+#: modules/js_composer/config/map.php:577
+#: modules/js_composer/config/map.php:720
+#: modules/js_composer/config/map.php:897
+#: modules/js_composer/config/map.php:1001
+#: modules/js_composer/config/map.php:1350
+#: modules/js_composer/config/map.php:1513
+#: modules/js_composer/config/map.php:1536
+#: modules/js_composer/config/map.php:1589
+#: modules/js_composer/config/map.php:1729
+#: modules/js_composer/config/map.php:1752
+#: modules/js_composer/config/map.php:1931
+#: modules/js_composer/config/map.php:2065
+#: modules/js_composer/config/map.php:2245
+#: modules/js_composer/config/map.php:2420
+#: modules/js_composer/config/map.php:2431
+#: modules/js_composer/config/map.php:2531
+#: modules/js_composer/config/map.php:2554
+#: modules/js_composer/config/map.php:2647
+#: modules/js_composer/config/map.php:2752
+msgid "Select"
+msgstr ""
+
+#: modules/js_composer/config/map.php:47 modules/js_composer/config/map.php:123
+#: modules/js_composer/config/map.php:482
+#: modules/js_composer/config/map.php:578
+#: modules/js_composer/config/map.php:721
+#: modules/js_composer/config/map.php:1002
+#: modules/js_composer/config/map.php:1351
+#: modules/js_composer/config/map.php:1537
+#: modules/js_composer/config/map.php:1590
+#: modules/js_composer/config/map.php:1753
+#: modules/js_composer/config/map.php:1932
+#: modules/js_composer/config/map.php:2066
+#: modules/js_composer/config/map.php:2246
+#: modules/js_composer/config/map.php:2432
+#: modules/js_composer/config/map.php:2555
+#: modules/js_composer/config/map.php:2648 modules/kingcomposer/maps.php:54
+#: modules/kingcomposer/maps.php:140 modules/kingcomposer/maps.php:538
+#: modules/kingcomposer/maps.php:634 modules/kingcomposer/maps.php:786
+#: modules/kingcomposer/maps.php:1095 modules/kingcomposer/maps.php:1457
+#: modules/kingcomposer/maps.php:1658 modules/kingcomposer/maps.php:1717
+#: modules/kingcomposer/maps.php:1891 modules/kingcomposer/maps.php:2086
+#: modules/kingcomposer/maps.php:2230 modules/kingcomposer/maps.php:2421
+#: modules/kingcomposer/maps.php:2617 modules/kingcomposer/maps.php:2752
+#: modules/kingcomposer/maps.php:2855
+msgid "Featured Products"
+msgstr ""
+
+#: modules/js_composer/config/map.php:48 modules/js_composer/config/map.php:124
+#: modules/js_composer/config/map.php:483
+#: modules/js_composer/config/map.php:579
+#: modules/js_composer/config/map.php:722
+#: modules/js_composer/config/map.php:1003
+#: modules/js_composer/config/map.php:1352
+#: modules/js_composer/config/map.php:1538
+#: modules/js_composer/config/map.php:1591
+#: modules/js_composer/config/map.php:1754
+#: modules/js_composer/config/map.php:1933
+#: modules/js_composer/config/map.php:2067
+#: modules/js_composer/config/map.php:2247
+#: modules/js_composer/config/map.php:2433
+#: modules/js_composer/config/map.php:2556
+#: modules/js_composer/config/map.php:2649 modules/kingcomposer/maps.php:55
+#: modules/kingcomposer/maps.php:141 modules/kingcomposer/maps.php:539
+#: modules/kingcomposer/maps.php:635 modules/kingcomposer/maps.php:787
+#: modules/kingcomposer/maps.php:1096 modules/kingcomposer/maps.php:1458
+#: modules/kingcomposer/maps.php:1659 modules/kingcomposer/maps.php:1718
+#: modules/kingcomposer/maps.php:1892 modules/kingcomposer/maps.php:2087
+#: modules/kingcomposer/maps.php:2231 modules/kingcomposer/maps.php:2422
+#: modules/kingcomposer/maps.php:2618 modules/kingcomposer/maps.php:2753
+#: modules/kingcomposer/maps.php:2856
+msgid "On Sale Products"
+msgstr ""
+
+#: modules/js_composer/config/map.php:49 modules/js_composer/config/map.php:125
+#: modules/js_composer/config/map.php:484
+#: modules/js_composer/config/map.php:580
+#: modules/js_composer/config/map.php:723
+#: modules/js_composer/config/map.php:1004
+#: modules/js_composer/config/map.php:1353
+#: modules/js_composer/config/map.php:1539
+#: modules/js_composer/config/map.php:1592
+#: modules/js_composer/config/map.php:1755
+#: modules/js_composer/config/map.php:1934
+#: modules/js_composer/config/map.php:2068
+#: modules/js_composer/config/map.php:2248
+#: modules/js_composer/config/map.php:2434
+#: modules/js_composer/config/map.php:2557
+#: modules/js_composer/config/map.php:2650 modules/kingcomposer/maps.php:56
+#: modules/kingcomposer/maps.php:142 modules/kingcomposer/maps.php:540
+#: modules/kingcomposer/maps.php:636 modules/kingcomposer/maps.php:788
+#: modules/kingcomposer/maps.php:1097 modules/kingcomposer/maps.php:1459
+#: modules/kingcomposer/maps.php:1660 modules/kingcomposer/maps.php:1719
+#: modules/kingcomposer/maps.php:1893 modules/kingcomposer/maps.php:2088
+#: modules/kingcomposer/maps.php:2232 modules/kingcomposer/maps.php:2423
+#: modules/kingcomposer/maps.php:2619 modules/kingcomposer/maps.php:2754
+#: modules/kingcomposer/maps.php:2857
+msgid "Top Rated Products"
+msgstr ""
+
+#: modules/js_composer/config/map.php:50 modules/js_composer/config/map.php:126
+#: modules/js_composer/config/map.php:485
+#: modules/js_composer/config/map.php:581
+#: modules/js_composer/config/map.php:724
+#: modules/js_composer/config/map.php:1005
+#: modules/js_composer/config/map.php:1354
+#: modules/js_composer/config/map.php:1540
+#: modules/js_composer/config/map.php:1593
+#: modules/js_composer/config/map.php:1756
+#: modules/js_composer/config/map.php:1935
+#: modules/js_composer/config/map.php:2069
+#: modules/js_composer/config/map.php:2249
+#: modules/js_composer/config/map.php:2435
+#: modules/js_composer/config/map.php:2558
+#: modules/js_composer/config/map.php:2651 modules/kingcomposer/maps.php:57
+#: modules/kingcomposer/maps.php:143 modules/kingcomposer/maps.php:541
+#: modules/kingcomposer/maps.php:637 modules/kingcomposer/maps.php:789
+#: modules/kingcomposer/maps.php:1098 modules/kingcomposer/maps.php:1460
+#: modules/kingcomposer/maps.php:1661 modules/kingcomposer/maps.php:1720
+#: modules/kingcomposer/maps.php:1894 modules/kingcomposer/maps.php:2089
+#: modules/kingcomposer/maps.php:2233 modules/kingcomposer/maps.php:2424
+#: modules/kingcomposer/maps.php:2620 modules/kingcomposer/maps.php:2755
+#: modules/kingcomposer/maps.php:2858
+msgid "Recent Products"
+msgstr ""
+
+#: modules/js_composer/config/map.php:51 modules/js_composer/config/map.php:127
+#: modules/js_composer/config/map.php:486
+#: modules/js_composer/config/map.php:582
+#: modules/js_composer/config/map.php:725
+#: modules/js_composer/config/map.php:1006
+#: modules/js_composer/config/map.php:1355
+#: modules/js_composer/config/map.php:1541
+#: modules/js_composer/config/map.php:1594
+#: modules/js_composer/config/map.php:1757
+#: modules/js_composer/config/map.php:1936
+#: modules/js_composer/config/map.php:2070
+#: modules/js_composer/config/map.php:2250
+#: modules/js_composer/config/map.php:2436
+#: modules/js_composer/config/map.php:2559
+#: modules/js_composer/config/map.php:2652 modules/kingcomposer/maps.php:58
+#: modules/kingcomposer/maps.php:144 modules/kingcomposer/maps.php:542
+#: modules/kingcomposer/maps.php:638 modules/kingcomposer/maps.php:790
+#: modules/kingcomposer/maps.php:1099 modules/kingcomposer/maps.php:1461
+#: modules/kingcomposer/maps.php:1662 modules/kingcomposer/maps.php:1721
+#: modules/kingcomposer/maps.php:1895 modules/kingcomposer/maps.php:2090
+#: modules/kingcomposer/maps.php:2234 modules/kingcomposer/maps.php:2425
+#: modules/kingcomposer/maps.php:2621 modules/kingcomposer/maps.php:2756
+#: modules/kingcomposer/maps.php:2859
+msgid "Best Selling Products"
+msgstr ""
+
+#: modules/js_composer/config/map.php:52 modules/js_composer/config/map.php:128
+#: modules/js_composer/config/map.php:487
+#: modules/js_composer/config/map.php:583
+#: modules/js_composer/config/map.php:726
+#: modules/js_composer/config/map.php:1007
+#: modules/js_composer/config/map.php:1356
+#: modules/js_composer/config/map.php:1542
+#: modules/js_composer/config/map.php:1595
+#: modules/js_composer/config/map.php:1758
+#: modules/js_composer/config/map.php:1937
+#: modules/js_composer/config/map.php:2071
+#: modules/js_composer/config/map.php:2251
+#: modules/js_composer/config/map.php:2437
+#: modules/js_composer/config/map.php:2560
+#: modules/js_composer/config/map.php:2653 modules/kingcomposer/maps.php:59
+#: modules/kingcomposer/maps.php:145 modules/kingcomposer/maps.php:543
+#: modules/kingcomposer/maps.php:639 modules/kingcomposer/maps.php:791
+#: modules/kingcomposer/maps.php:1100 modules/kingcomposer/maps.php:1462
+#: modules/kingcomposer/maps.php:1663 modules/kingcomposer/maps.php:1722
+#: modules/kingcomposer/maps.php:1896 modules/kingcomposer/maps.php:2091
+#: modules/kingcomposer/maps.php:2235 modules/kingcomposer/maps.php:2426
+#: modules/kingcomposer/maps.php:2622 modules/kingcomposer/maps.php:2757
+#: modules/kingcomposer/maps.php:2860
+msgid "Products"
+msgstr ""
+
+#: modules/js_composer/config/map.php:53 modules/js_composer/config/map.php:129
+#: modules/js_composer/config/map.php:488
+#: modules/js_composer/config/map.php:584
+#: modules/js_composer/config/map.php:727
+#: modules/js_composer/config/map.php:1008
+#: modules/js_composer/config/map.php:1357
+#: modules/js_composer/config/map.php:1543
+#: modules/js_composer/config/map.php:1596
+#: modules/js_composer/config/map.php:1759
+#: modules/js_composer/config/map.php:1938
+#: modules/js_composer/config/map.php:2072
+#: modules/js_composer/config/map.php:2252
+#: modules/js_composer/config/map.php:2438
+#: modules/js_composer/config/map.php:2561
+#: modules/js_composer/config/map.php:2654 modules/kingcomposer/maps.php:60
+#: modules/kingcomposer/maps.php:146 modules/kingcomposer/maps.php:544
+#: modules/kingcomposer/maps.php:640 modules/kingcomposer/maps.php:792
+#: modules/kingcomposer/maps.php:1101 modules/kingcomposer/maps.php:1463
+#: modules/kingcomposer/maps.php:1664 modules/kingcomposer/maps.php:1723
+#: modules/kingcomposer/maps.php:1897 modules/kingcomposer/maps.php:2092
+#: modules/kingcomposer/maps.php:2236 modules/kingcomposer/maps.php:2427
+#: modules/kingcomposer/maps.php:2623 modules/kingcomposer/maps.php:2758
+#: modules/kingcomposer/maps.php:2861
+msgid "Product Category"
+msgstr ""
+
+#: modules/js_composer/config/map.php:58 modules/js_composer/config/map.php:134
+#: modules/js_composer/config/map.php:344
+#: modules/js_composer/config/map.php:433
+#: modules/js_composer/config/map.php:499
+#: modules/js_composer/config/map.php:595
+#: modules/js_composer/config/map.php:738
+#: modules/js_composer/config/map.php:1019
+#: modules/js_composer/config/map.php:1127
+#: modules/js_composer/config/map.php:1231
+#: modules/js_composer/config/map.php:1296
+#: modules/js_composer/config/map.php:1368
+#: modules/js_composer/config/map.php:1554
+#: modules/js_composer/config/map.php:1770
+#: modules/js_composer/config/map.php:1949
+#: modules/js_composer/config/map.php:2083
+#: modules/js_composer/config/map.php:2263
+#: modules/js_composer/config/map.php:2449
+#: modules/js_composer/config/map.php:2578
+#: modules/js_composer/config/map.php:2665
+#: modules/js_composer/config/map.php:2851 modules/kingcomposer/maps.php:3069
+msgid "Order By"
+msgstr ""
+
+#: modules/js_composer/config/map.php:60 modules/js_composer/config/map.php:136
+#: modules/js_composer/config/map.php:2853 modules/kingcomposer/maps.php:3071
+msgid ""
+"Field(s) to order terms by. Accepts term fields ('name', 'slug', "
+"'term_group', 'term_id', 'id', 'description'). Defaults to 'name'."
+msgstr ""
+
+#: modules/js_composer/config/map.php:65 modules/js_composer/config/map.php:141
+#: modules/js_composer/config/map.php:351
+#: modules/js_composer/config/map.php:440
+#: modules/js_composer/config/map.php:506
+#: modules/js_composer/config/map.php:602
+#: modules/js_composer/config/map.php:745
+#: modules/js_composer/config/map.php:1026
+#: modules/js_composer/config/map.php:1134
+#: modules/js_composer/config/map.php:1238
+#: modules/js_composer/config/map.php:1303
+#: modules/js_composer/config/map.php:1375
+#: modules/js_composer/config/map.php:1561
+#: modules/js_composer/config/map.php:1777
+#: modules/js_composer/config/map.php:1956
+#: modules/js_composer/config/map.php:2090
+#: modules/js_composer/config/map.php:2270
+#: modules/js_composer/config/map.php:2456
+#: modules/js_composer/config/map.php:2585
+#: modules/js_composer/config/map.php:2672
+#: modules/js_composer/config/map.php:2858 modules/kingcomposer/maps.php:74
+#: modules/kingcomposer/maps.php:160 modules/kingcomposer/maps.php:403
+#: modules/kingcomposer/maps.php:503 modules/kingcomposer/maps.php:565
+#: modules/kingcomposer/maps.php:662 modules/kingcomposer/maps.php:814
+#: modules/kingcomposer/maps.php:1122 modules/kingcomposer/maps.php:1231
+#: modules/kingcomposer/maps.php:1346 modules/kingcomposer/maps.php:1415
+#: modules/kingcomposer/maps.php:1484 modules/kingcomposer/maps.php:1685
+#: modules/kingcomposer/maps.php:1918 modules/kingcomposer/maps.php:2113
+#: modules/kingcomposer/maps.php:2257 modules/kingcomposer/maps.php:2448
+#: modules/kingcomposer/maps.php:2644 modules/kingcomposer/maps.php:2786
+#: modules/kingcomposer/maps.php:2882 modules/kingcomposer/maps.php:3076
+msgid "Order"
+msgstr ""
+
+#: modules/js_composer/config/map.php:67 modules/js_composer/config/map.php:143
+#: modules/js_composer/config/map.php:2860 modules/kingcomposer/maps.php:3078
+msgid ""
+"Whether to order terms in ascending or descending order. Accepts 'ASC' "
+"(ascending) or 'DESC' (descending). Default 'ASC'."
+msgstr ""
+
+#: modules/js_composer/config/map.php:72 modules/js_composer/config/map.php:148
+msgid "Enter Product IDs"
+msgstr ""
+
+#: modules/js_composer/config/map.php:73 modules/js_composer/config/map.php:149
+msgid "This will only for Products Shortcode"
+msgstr ""
+
+#: modules/js_composer/config/map.php:78 modules/js_composer/config/map.php:154
+msgid "Enter Category Slug"
+msgstr ""
+
+#: modules/js_composer/config/map.php:79 modules/js_composer/config/map.php:155
+msgid "This will only for Product Category Shortcode"
+msgstr ""
+
+#: modules/js_composer/config/map.php:86 modules/js_composer/config/map.php:162
+#: modules/js_composer/config/map.php:233
+#: modules/js_composer/config/map.php:309
+#: modules/js_composer/config/map.php:317
+#: modules/js_composer/config/map.php:462
+#: modules/js_composer/config/map.php:552
+#: modules/js_composer/config/map.php:695
+#: modules/js_composer/config/map.php:773
+#: modules/js_composer/config/map.php:806
+#: modules/js_composer/config/map.php:827
+#: modules/js_composer/config/map.php:904
+#: modules/js_composer/config/map.php:976
+#: modules/js_composer/config/map.php:1072
+#: modules/js_composer/config/map.php:1195
+#: modules/js_composer/config/map.php:1268
+#: modules/js_composer/config/map.php:1325
+#: modules/js_composer/config/map.php:1488
+#: modules/js_composer/config/map.php:1704
+#: modules/js_composer/config/map.php:1889
+#: modules/js_composer/config/map.php:2040
+#: modules/js_composer/config/map.php:2220
+#: modules/js_composer/config/map.php:2389
+#: modules/js_composer/config/map.php:2506
+#: modules/js_composer/config/map.php:2622
+#: modules/js_composer/config/map.php:2723
+#: modules/js_composer/config/map.php:2794
+#: modules/js_composer/config/map.php:2825
+msgid "Extra Class"
+msgstr ""
+
+#: modules/js_composer/config/map.php:88 modules/js_composer/config/map.php:164
+#: modules/js_composer/config/map.php:235
+#: modules/js_composer/config/map.php:311
+#: modules/js_composer/config/map.php:319
+#: modules/js_composer/config/map.php:464
+#: modules/js_composer/config/map.php:554
+#: modules/js_composer/config/map.php:697
+#: modules/js_composer/config/map.php:775
+#: modules/js_composer/config/map.php:808
+#: modules/js_composer/config/map.php:829
+#: modules/js_composer/config/map.php:906
+#: modules/js_composer/config/map.php:978
+#: modules/js_composer/config/map.php:1074
+#: modules/js_composer/config/map.php:1197
+#: modules/js_composer/config/map.php:1270
+#: modules/js_composer/config/map.php:1327
+#: modules/js_composer/config/map.php:1490
+#: modules/js_composer/config/map.php:1706
+#: modules/js_composer/config/map.php:1891
+#: modules/js_composer/config/map.php:2042
+#: modules/js_composer/config/map.php:2222
+#: modules/js_composer/config/map.php:2391
+#: modules/js_composer/config/map.php:2508
+#: modules/js_composer/config/map.php:2624
+#: modules/js_composer/config/map.php:2725
+#: modules/js_composer/config/map.php:2796
+#: modules/js_composer/config/map.php:2827 modules/kingcomposer/maps.php:100
+#: modules/kingcomposer/maps.php:186 modules/kingcomposer/maps.php:268
+#: modules/kingcomposer/maps.php:359 modules/kingcomposer/maps.php:367
+#: modules/kingcomposer/maps.php:610 modules/kingcomposer/maps.php:762
+#: modules/kingcomposer/maps.php:845 modules/kingcomposer/maps.php:884
+#: modules/kingcomposer/maps.php:906 modules/kingcomposer/maps.php:990
+#: modules/kingcomposer/maps.php:1071 modules/kingcomposer/maps.php:1167
+#: modules/kingcomposer/maps.php:1301 modules/kingcomposer/maps.php:1379
+#: modules/kingcomposer/maps.php:1607 modules/kingcomposer/maps.php:1840
+#: modules/kingcomposer/maps.php:2040 modules/kingcomposer/maps.php:2206
+#: modules/kingcomposer/maps.php:2397 modules/kingcomposer/maps.php:2575
+#: modules/kingcomposer/maps.php:2701 modules/kingcomposer/maps.php:2831
+#: modules/kingcomposer/maps.php:2944 modules/kingcomposer/maps.php:3019
+msgid ""
+"If you wish to style particular content element differently, please add a "
+"class name to this field and refer to it in your custom CSS file."
+msgstr ""
+
+#: modules/js_composer/config/map.php:94 modules/js_composer/config/map.php:96
+#: modules/kingcomposer/maps.php:106 modules/kingcomposer/maps.php:107
+msgid "6-1-6 Products Tabs with Deals"
+msgstr ""
+
+#: modules/js_composer/config/map.php:170 modules/kingcomposer/maps.php:192
+#: modules/kingcomposer/maps.php:193
+msgid "Banner"
+msgstr ""
+
+#: modules/js_composer/config/map.php:172
+msgid "Add Banner to your page"
+msgstr ""
+
+#: modules/js_composer/config/map.php:178
+#: modules/js_composer/config/map.php:254
+#: modules/js_composer/config/map.php:920 modules/kingcomposer/maps.php:200
+#: modules/kingcomposer/maps.php:291 modules/kingcomposer/maps.php:1004
+msgid "Background Choice"
+msgstr ""
+
+#: modules/js_composer/config/map.php:180
+#: modules/js_composer/config/map.php:256
+#: modules/js_composer/config/map.php:922
+msgid "Choose"
+msgstr ""
+
+#: modules/js_composer/config/map.php:181
+#: modules/js_composer/config/map.php:257
+#: modules/js_composer/config/map.php:889
+#: modules/js_composer/config/map.php:923
+#: modules/js_composer/config/map.php:1394
+#: modules/js_composer/config/map.php:2130
+#: modules/js_composer/config/map.php:2718
+#: modules/js_composer/config/map.php:2820 modules/kingcomposer/maps.php:203
+#: modules/kingcomposer/maps.php:294 modules/kingcomposer/maps.php:973
+#: modules/kingcomposer/maps.php:1007 modules/kingcomposer/maps.php:1507
+#: modules/kingcomposer/maps.php:2301 modules/kingcomposer/maps.php:2937
+#: modules/kingcomposer/maps.php:3046
+msgid "Image"
+msgstr ""
+
+#: modules/js_composer/config/map.php:182
+#: modules/js_composer/config/map.php:258
+#: modules/js_composer/config/map.php:924 modules/kingcomposer/maps.php:204
+#: modules/kingcomposer/maps.php:295 modules/kingcomposer/maps.php:1008
+msgid "Color"
+msgstr ""
+
+#: modules/js_composer/config/map.php:188
+#: modules/js_composer/config/map.php:264
+#: modules/js_composer/config/map.php:854
+#: modules/js_composer/config/map.php:931
+#: modules/js_composer/config/map.php:1911 modules/kingcomposer/maps.php:212
+#: modules/kingcomposer/maps.php:303 modules/kingcomposer/maps.php:933
+#: modules/kingcomposer/maps.php:1016 modules/kingcomposer/maps.php:2062
+msgid "Background Image"
+msgstr ""
+
+#: modules/js_composer/config/map.php:193
+#: modules/js_composer/config/map.php:269
+#: modules/js_composer/config/map.php:936 modules/kingcomposer/maps.php:217
+#: modules/kingcomposer/maps.php:308 modules/kingcomposer/maps.php:1021
+msgid "Background Color"
+msgstr ""
+
+#: modules/js_composer/config/map.php:198
+#: modules/js_composer/config/map.php:274
+#: modules/js_composer/config/map.php:941 modules/kingcomposer/maps.php:223
+#: modules/kingcomposer/maps.php:314 modules/kingcomposer/maps.php:1027
+msgid "Height"
+msgstr ""
+
+#: modules/js_composer/config/map.php:203
+#: modules/js_composer/config/map.php:279
+#: modules/js_composer/config/map.php:946
+#: modules/js_composer/config/map.php:1088
+#: modules/js_composer/config/map.php:2405 modules/kingcomposer/maps.php:229
+#: modules/kingcomposer/maps.php:320 modules/kingcomposer/maps.php:1033
+#: modules/kingcomposer/maps.php:1181 modules/kingcomposer/maps.php:2589
+msgid "Pre Title"
+msgstr ""
+
+#: modules/js_composer/config/map.php:213
+#: modules/js_composer/config/map.php:289
+#: modules/js_composer/config/map.php:849
+#: modules/js_composer/config/map.php:956 modules/kingcomposer/maps.php:241
+#: modules/kingcomposer/maps.php:332 modules/kingcomposer/maps.php:926
+#: modules/kingcomposer/maps.php:1045
+msgid "Sub Title"
+msgstr ""
+
+#: modules/js_composer/config/map.php:218
+#: modules/js_composer/config/map.php:294
+#: modules/js_composer/config/map.php:879
+#: modules/js_composer/config/map.php:961
+#: modules/js_composer/config/map.php:2496
+#: modules/js_composer/config/map.php:2612
+#: modules/js_composer/config/map.php:2703 modules/kingcomposer/maps.php:247
+#: modules/kingcomposer/maps.php:338 modules/kingcomposer/maps.php:960
+#: modules/kingcomposer/maps.php:1051 modules/kingcomposer/maps.php:2687
+#: modules/kingcomposer/maps.php:2817 modules/kingcomposer/maps.php:2918
+msgid "Action Text"
+msgstr ""
+
+#: modules/js_composer/config/map.php:223
+#: modules/js_composer/config/map.php:299
+#: modules/js_composer/config/map.php:884
+#: modules/js_composer/config/map.php:966
+#: modules/js_composer/config/map.php:2501
+#: modules/js_composer/config/map.php:2617
+#: modules/js_composer/config/map.php:2708 modules/kingcomposer/maps.php:253
+#: modules/kingcomposer/maps.php:344 modules/kingcomposer/maps.php:966
+#: modules/kingcomposer/maps.php:1057 modules/kingcomposer/maps.php:2693
+#: modules/kingcomposer/maps.php:2823 modules/kingcomposer/maps.php:2924
+msgid "Action Link"
+msgstr ""
+
+#: modules/js_composer/config/map.php:228
+#: modules/js_composer/config/map.php:304 modules/kingcomposer/maps.php:260
+#: modules/kingcomposer/maps.php:351
+msgid "Price"
+msgstr ""
+
+#: modules/js_composer/config/map.php:241
+#: modules/js_composer/config/map.php:243 modules/kingcomposer/maps.php:274
+#: modules/kingcomposer/maps.php:275 modules/kingcomposer/maps.php:282
+msgid "Banners"
+msgstr ""
+
+#: modules/js_composer/config/map.php:325
+#: modules/js_composer/config/map.php:327 modules/kingcomposer/maps.php:373
+#: modules/kingcomposer/maps.php:374
+msgid "Brands Carousel"
+msgstr ""
+
+#: modules/js_composer/config/map.php:339
+#: modules/js_composer/config/map.php:428
+#: modules/js_composer/config/map.php:493
+#: modules/js_composer/config/map.php:589
+#: modules/js_composer/config/map.php:732
+#: modules/js_composer/config/map.php:1013
+#: modules/js_composer/config/map.php:1109
+#: modules/js_composer/config/map.php:1217
+#: modules/js_composer/config/map.php:1290
+#: modules/js_composer/config/map.php:1362
+#: modules/js_composer/config/map.php:1548
+#: modules/js_composer/config/map.php:1764
+#: modules/js_composer/config/map.php:1943
+#: modules/js_composer/config/map.php:2077
+#: modules/js_composer/config/map.php:2257
+#: modules/js_composer/config/map.php:2443
+#: modules/js_composer/config/map.php:2566
+#: modules/js_composer/config/map.php:2659
+#: modules/js_composer/config/map.php:2767 modules/kingcomposer/maps.php:388
+#: modules/kingcomposer/maps.php:488 modules/kingcomposer/maps.php:550
+#: modules/kingcomposer/maps.php:647 modules/kingcomposer/maps.php:799
+#: modules/kingcomposer/maps.php:1107 modules/kingcomposer/maps.php:1202
+#: modules/kingcomposer/maps.php:1322 modules/kingcomposer/maps.php:1400
+#: modules/kingcomposer/maps.php:1469 modules/kingcomposer/maps.php:1670
+#: modules/kingcomposer/maps.php:1903 modules/kingcomposer/maps.php:2098
+#: modules/kingcomposer/maps.php:2242 modules/kingcomposer/maps.php:2433
+#: modules/kingcomposer/maps.php:2629 modules/kingcomposer/maps.php:2764
+#: modules/kingcomposer/maps.php:2867 modules/kingcomposer/maps.php:2989
+msgid "Limit"
+msgstr ""
+
+#: modules/js_composer/config/map.php:346
+#: modules/js_composer/config/map.php:435
+msgid ""
+"Sort retrieved posts by parameter. Defaults to 'date'. One or more options "
+"can be passed"
+msgstr ""
+
+#: modules/js_composer/config/map.php:353
+#: modules/js_composer/config/map.php:442
+msgid ""
+"Whether to order terms in ascending or descending order. Accepts 'ASC' "
+"(ascending) or 'DESC' (descending). Default 'DESC'."
+msgstr ""
+
+#: modules/js_composer/config/map.php:358
+#: modules/js_composer/config/map.php:447
+#: modules/js_composer/config/map.php:1141
+#: modules/js_composer/config/map.php:1310 modules/kingcomposer/maps.php:411
+#: modules/kingcomposer/maps.php:511 modules/kingcomposer/maps.php:1239
+#: modules/kingcomposer/maps.php:1423
+msgid "Include"
+msgstr ""
+
+#: modules/js_composer/config/map.php:359
+#: modules/js_composer/config/map.php:448
+#: modules/js_composer/config/map.php:1143
+#: modules/js_composer/config/map.php:1312 modules/kingcomposer/maps.php:413
+#: modules/kingcomposer/maps.php:513 modules/kingcomposer/maps.php:1241
+#: modules/kingcomposer/maps.php:1425
+msgid "Enter id spearate by comma(,)"
+msgstr ""
+
+#: modules/js_composer/config/map.php:364
+#: modules/js_composer/config/map.php:453
+#: modules/js_composer/config/map.php:1147
+#: modules/js_composer/config/map.php:1259
+#: modules/js_composer/config/map.php:1316 modules/kingcomposer/maps.php:418
+#: modules/kingcomposer/maps.php:518 modules/kingcomposer/maps.php:1246
+#: modules/kingcomposer/maps.php:1370 modules/kingcomposer/maps.php:1430
+msgid "Hide Empty?"
+msgstr ""
+
+#: modules/js_composer/config/map.php:365
+#: modules/js_composer/config/map.php:454 modules/kingcomposer/maps.php:420
+#: modules/kingcomposer/maps.php:520
+msgid "Check to hide empty brands."
+msgstr ""
+
+#: modules/js_composer/config/map.php:368
+#: modules/js_composer/config/map.php:457
+#: modules/js_composer/config/map.php:529
+#: modules/js_composer/config/map.php:538
+#: modules/js_composer/config/map.php:547
+#: modules/js_composer/config/map.php:625
+#: modules/js_composer/config/map.php:634
+#: modules/js_composer/config/map.php:663
+#: modules/js_composer/config/map.php:768
+#: modules/js_composer/config/map.php:1049
+#: modules/js_composer/config/map.php:1058
+#: modules/js_composer/config/map.php:1067
+#: modules/js_composer/config/map.php:1104
+#: modules/js_composer/config/map.php:1151
+#: modules/js_composer/config/map.php:1263
+#: modules/js_composer/config/map.php:1320
+#: modules/js_composer/config/map.php:1403
+#: modules/js_composer/config/map.php:1440
+#: modules/js_composer/config/map.php:1449
+#: modules/js_composer/config/map.php:1619
+#: modules/js_composer/config/map.php:1656
+#: modules/js_composer/config/map.php:1665
+#: modules/js_composer/config/map.php:1808
+#: modules/js_composer/config/map.php:1841
+#: modules/js_composer/config/map.php:1850
+#: modules/js_composer/config/map.php:1987
+#: modules/js_composer/config/map.php:2008
+#: modules/js_composer/config/map.php:2119
+#: modules/js_composer/config/map.php:2139
+#: modules/js_composer/config/map.php:2172
+#: modules/js_composer/config/map.php:2181
+#: modules/js_composer/config/map.php:2299
+#: modules/js_composer/config/map.php:2308
+#: modules/js_composer/config/map.php:2341
+#: modules/js_composer/config/map.php:2350
+#: modules/js_composer/config/map.php:2479
+#: modules/js_composer/config/map.php:2777 modules/kingcomposer/maps.php:421
+#: modules/kingcomposer/maps.php:521 modules/kingcomposer/maps.php:590
+#: modules/kingcomposer/maps.php:597 modules/kingcomposer/maps.php:604
+#: modules/kingcomposer/maps.php:687 modules/kingcomposer/maps.php:694
+#: modules/kingcomposer/maps.php:724 modules/kingcomposer/maps.php:839
+#: modules/kingcomposer/maps.php:1147 modules/kingcomposer/maps.php:1154
+#: modules/kingcomposer/maps.php:1161 modules/kingcomposer/maps.php:1198
+#: modules/kingcomposer/maps.php:1249 modules/kingcomposer/maps.php:1373
+#: modules/kingcomposer/maps.php:1433 modules/kingcomposer/maps.php:1515
+#: modules/kingcomposer/maps.php:1554 modules/kingcomposer/maps.php:1561
+#: modules/kingcomposer/maps.php:1748 modules/kingcomposer/maps.php:1787
+#: modules/kingcomposer/maps.php:1794 modules/kingcomposer/maps.php:1952
+#: modules/kingcomposer/maps.php:1987 modules/kingcomposer/maps.php:1994
+#: modules/kingcomposer/maps.php:2147 modules/kingcomposer/maps.php:2168
+#: modules/kingcomposer/maps.php:2289 modules/kingcomposer/maps.php:2309
+#: modules/kingcomposer/maps.php:2344 modules/kingcomposer/maps.php:2351
+#: modules/kingcomposer/maps.php:2480 modules/kingcomposer/maps.php:2487
+#: modules/kingcomposer/maps.php:2522 modules/kingcomposer/maps.php:2529
+#: modules/kingcomposer/maps.php:2669 modules/kingcomposer/maps.php:2999
+msgid "Enable"
+msgstr ""
+
+#: modules/js_composer/config/map.php:373
+#: modules/js_composer/config/map.php:396
+#: modules/js_composer/config/map.php:645
+#: modules/js_composer/config/map.php:679
+#: modules/js_composer/config/map.php:1156
+#: modules/js_composer/config/map.php:1179
+#: modules/js_composer/config/map.php:1422
+#: modules/js_composer/config/map.php:1472
+#: modules/js_composer/config/map.php:1638
+#: modules/js_composer/config/map.php:1688
+#: modules/js_composer/config/map.php:1825
+#: modules/js_composer/config/map.php:1873
+#: modules/js_composer/config/map.php:1992
+#: modules/js_composer/config/map.php:2024
+#: modules/js_composer/config/map.php:2156
+#: modules/js_composer/config/map.php:2204
+#: modules/js_composer/config/map.php:2325
+#: modules/js_composer/config/map.php:2373 modules/kingcomposer/maps.php:425
+#: modules/kingcomposer/maps.php:455 modules/kingcomposer/maps.php:705
+#: modules/kingcomposer/maps.php:744 modules/kingcomposer/maps.php:1253
+#: modules/kingcomposer/maps.php:1283 modules/kingcomposer/maps.php:1535
+#: modules/kingcomposer/maps.php:1589 modules/kingcomposer/maps.php:1768
+#: modules/kingcomposer/maps.php:1822 modules/kingcomposer/maps.php:1970
+#: modules/kingcomposer/maps.php:2022 modules/kingcomposer/maps.php:2151
+#: modules/kingcomposer/maps.php:2188 modules/kingcomposer/maps.php:2327
+#: modules/kingcomposer/maps.php:2379 modules/kingcomposer/maps.php:2505
+#: modules/kingcomposer/maps.php:2557
+msgid "slidesToShow"
+msgstr ""
+
+#: modules/js_composer/config/map.php:374
+#: modules/js_composer/config/map.php:397
+#: modules/js_composer/config/map.php:646
+#: modules/js_composer/config/map.php:680
+#: modules/js_composer/config/map.php:1157
+#: modules/js_composer/config/map.php:1180
+#: modules/js_composer/config/map.php:1425
+#: modules/js_composer/config/map.php:1473
+#: modules/js_composer/config/map.php:1641
+#: modules/js_composer/config/map.php:1689
+#: modules/js_composer/config/map.php:1827
+#: modules/js_composer/config/map.php:1874
+#: modules/js_composer/config/map.php:1994
+#: modules/js_composer/config/map.php:2025
+#: modules/js_composer/config/map.php:2158
+#: modules/js_composer/config/map.php:2205
+#: modules/js_composer/config/map.php:2327
+#: modules/js_composer/config/map.php:2374 modules/kingcomposer/maps.php:427
+#: modules/kingcomposer/maps.php:457 modules/kingcomposer/maps.php:707
+#: modules/kingcomposer/maps.php:746 modules/kingcomposer/maps.php:1255
+#: modules/kingcomposer/maps.php:1285 modules/kingcomposer/maps.php:1538
+#: modules/kingcomposer/maps.php:1591 modules/kingcomposer/maps.php:1770
+#: modules/kingcomposer/maps.php:1824 modules/kingcomposer/maps.php:1972
+#: modules/kingcomposer/maps.php:2024 modules/kingcomposer/maps.php:2153
+#: modules/kingcomposer/maps.php:2190 modules/kingcomposer/maps.php:2329
+#: modules/kingcomposer/maps.php:2381 modules/kingcomposer/maps.php:2507
+#: modules/kingcomposer/maps.php:2559
+msgid "Enter the number of items to display."
+msgstr ""
+
+#: modules/js_composer/config/map.php:379
+#: modules/js_composer/config/map.php:403
+#: modules/js_composer/config/map.php:652
+#: modules/js_composer/config/map.php:686
+#: modules/js_composer/config/map.php:1162
+#: modules/js_composer/config/map.php:1186
+#: modules/js_composer/config/map.php:1429
+#: modules/js_composer/config/map.php:1479
+#: modules/js_composer/config/map.php:1645
+#: modules/js_composer/config/map.php:1695
+#: modules/js_composer/config/map.php:1831
+#: modules/js_composer/config/map.php:1880
+#: modules/js_composer/config/map.php:1998
+#: modules/js_composer/config/map.php:2031
+#: modules/js_composer/config/map.php:2162
+#: modules/js_composer/config/map.php:2211
+#: modules/js_composer/config/map.php:2331
+#: modules/js_composer/config/map.php:2380 modules/kingcomposer/maps.php:432
+#: modules/kingcomposer/maps.php:462 modules/kingcomposer/maps.php:713
+#: modules/kingcomposer/maps.php:751 modules/kingcomposer/maps.php:1260
+#: modules/kingcomposer/maps.php:1290 modules/kingcomposer/maps.php:1543
+#: modules/kingcomposer/maps.php:1596 modules/kingcomposer/maps.php:1776
+#: modules/kingcomposer/maps.php:1829 modules/kingcomposer/maps.php:1977
+#: modules/kingcomposer/maps.php:2029 modules/kingcomposer/maps.php:2158
+#: modules/kingcomposer/maps.php:2195 modules/kingcomposer/maps.php:2334
+#: modules/kingcomposer/maps.php:2386 modules/kingcomposer/maps.php:2512
+#: modules/kingcomposer/maps.php:2564
+msgid "slidesToScroll"
+msgstr ""
+
+#: modules/js_composer/config/map.php:380
+#: modules/js_composer/config/map.php:404
+#: modules/js_composer/config/map.php:653
+#: modules/js_composer/config/map.php:687
+#: modules/js_composer/config/map.php:1163
+#: modules/js_composer/config/map.php:1187
+#: modules/js_composer/config/map.php:1432
+#: modules/js_composer/config/map.php:1480
+#: modules/js_composer/config/map.php:1648
+#: modules/js_composer/config/map.php:1696
+#: modules/js_composer/config/map.php:1833
+#: modules/js_composer/config/map.php:1881
+#: modules/js_composer/config/map.php:2000
+#: modules/js_composer/config/map.php:2032
+#: modules/js_composer/config/map.php:2164
+#: modules/js_composer/config/map.php:2212
+#: modules/js_composer/config/map.php:2333
+#: modules/js_composer/config/map.php:2381 modules/kingcomposer/maps.php:434
+#: modules/kingcomposer/maps.php:464 modules/kingcomposer/maps.php:715
+#: modules/kingcomposer/maps.php:753 modules/kingcomposer/maps.php:1262
+#: modules/kingcomposer/maps.php:1292 modules/kingcomposer/maps.php:1546
+#: modules/kingcomposer/maps.php:1598 modules/kingcomposer/maps.php:1778
+#: modules/kingcomposer/maps.php:1831 modules/kingcomposer/maps.php:1979
+#: modules/kingcomposer/maps.php:2031 modules/kingcomposer/maps.php:2160
+#: modules/kingcomposer/maps.php:2197 modules/kingcomposer/maps.php:2336
+#: modules/kingcomposer/maps.php:2388 modules/kingcomposer/maps.php:2514
+#: modules/kingcomposer/maps.php:2566
+msgid "Enter the number of items to scroll."
+msgstr ""
+
+#: modules/js_composer/config/map.php:390
+#: modules/js_composer/config/map.php:673
+#: modules/js_composer/config/map.php:1173
+#: modules/js_composer/config/map.php:1459
+#: modules/js_composer/config/map.php:1675
+#: modules/js_composer/config/map.php:1860
+#: modules/js_composer/config/map.php:2018
+#: modules/js_composer/config/map.php:2191
+#: modules/js_composer/config/map.php:2360 modules/kingcomposer/maps.php:448
+#: modules/kingcomposer/maps.php:737 modules/kingcomposer/maps.php:1276
+#: modules/kingcomposer/maps.php:1574 modules/kingcomposer/maps.php:1807
+#: modules/kingcomposer/maps.php:2007 modules/kingcomposer/maps.php:2181
+#: modules/kingcomposer/maps.php:2364 modules/kingcomposer/maps.php:2542
+msgid "Breakpoint"
+msgstr ""
+
+#: modules/js_composer/config/map.php:392
+#: modules/js_composer/config/map.php:675
+#: modules/js_composer/config/map.php:1175
+#: modules/js_composer/config/map.php:1461
+#: modules/js_composer/config/map.php:1677
+#: modules/js_composer/config/map.php:1862
+#: modules/js_composer/config/map.php:2020
+#: modules/js_composer/config/map.php:2193
+#: modules/js_composer/config/map.php:2362 modules/kingcomposer/maps.php:450
+#: modules/kingcomposer/maps.php:739 modules/kingcomposer/maps.php:1278
+#: modules/kingcomposer/maps.php:1576 modules/kingcomposer/maps.php:1809
+#: modules/kingcomposer/maps.php:2009 modules/kingcomposer/maps.php:2183
+#: modules/kingcomposer/maps.php:2366 modules/kingcomposer/maps.php:2544
+msgid "Enter breakpoint."
+msgstr ""
+
+#: modules/js_composer/config/map.php:414
+#: modules/js_composer/config/map.php:416 modules/kingcomposer/maps.php:473
+#: modules/kingcomposer/maps.php:474
+msgid "Brands"
+msgstr ""
+
+#: modules/js_composer/config/map.php:470
+#: modules/js_composer/config/map.php:472 modules/kingcomposer/maps.php:527
+#: modules/kingcomposer/maps.php:528
+msgid "Deals Cards Carousel with Gallery"
+msgstr ""
+
+#: modules/js_composer/config/map.php:494
+#: modules/js_composer/config/map.php:590
+#: modules/js_composer/config/map.php:733
+#: modules/js_composer/config/map.php:1014
+#: modules/js_composer/config/map.php:1110
+#: modules/js_composer/config/map.php:1219
+#: modules/js_composer/config/map.php:1292
+#: modules/js_composer/config/map.php:1364
+#: modules/js_composer/config/map.php:1550
+#: modules/js_composer/config/map.php:1766
+#: modules/js_composer/config/map.php:1945
+#: modules/js_composer/config/map.php:2079
+#: modules/js_composer/config/map.php:2259
+#: modules/js_composer/config/map.php:2445
+#: modules/js_composer/config/map.php:2568
+#: modules/js_composer/config/map.php:2661 modules/kingcomposer/maps.php:552
+#: modules/kingcomposer/maps.php:649 modules/kingcomposer/maps.php:801
+#: modules/kingcomposer/maps.php:1109 modules/kingcomposer/maps.php:1204
+#: modules/kingcomposer/maps.php:1324 modules/kingcomposer/maps.php:1402
+#: modules/kingcomposer/maps.php:1471 modules/kingcomposer/maps.php:1672
+#: modules/kingcomposer/maps.php:1905 modules/kingcomposer/maps.php:2100
+#: modules/kingcomposer/maps.php:2244 modules/kingcomposer/maps.php:2435
+#: modules/kingcomposer/maps.php:2631 modules/kingcomposer/maps.php:2766
+#: modules/kingcomposer/maps.php:2869
+msgid "Enter the number of products to display."
+msgstr ""
+
+#: modules/js_composer/config/map.php:501
+#: modules/js_composer/config/map.php:597
+#: modules/js_composer/config/map.php:740
+#: modules/js_composer/config/map.php:1021
+#: modules/js_composer/config/map.php:1129
+#: modules/js_composer/config/map.php:1233
+#: modules/js_composer/config/map.php:1298
+#: modules/js_composer/config/map.php:1370
+#: modules/js_composer/config/map.php:1556
+#: modules/js_composer/config/map.php:1772
+#: modules/js_composer/config/map.php:1951
+#: modules/js_composer/config/map.php:2085
+#: modules/js_composer/config/map.php:2265
+#: modules/js_composer/config/map.php:2451
+#: modules/js_composer/config/map.php:2580
+#: modules/js_composer/config/map.php:2667 modules/kingcomposer/maps.php:68
+#: modules/kingcomposer/maps.php:154 modules/kingcomposer/maps.php:397
+#: modules/kingcomposer/maps.php:497 modules/kingcomposer/maps.php:559
+#: modules/kingcomposer/maps.php:656 modules/kingcomposer/maps.php:808
+#: modules/kingcomposer/maps.php:1116 modules/kingcomposer/maps.php:1225
+#: modules/kingcomposer/maps.php:1340 modules/kingcomposer/maps.php:1409
+#: modules/kingcomposer/maps.php:1478 modules/kingcomposer/maps.php:1679
+#: modules/kingcomposer/maps.php:1912 modules/kingcomposer/maps.php:2107
+#: modules/kingcomposer/maps.php:2251 modules/kingcomposer/maps.php:2442
+#: modules/kingcomposer/maps.php:2638 modules/kingcomposer/maps.php:2780
+#: modules/kingcomposer/maps.php:2876
+msgid "Enter orderby."
+msgstr ""
+
+#: modules/js_composer/config/map.php:508
+#: modules/js_composer/config/map.php:604
+#: modules/js_composer/config/map.php:747
+#: modules/js_composer/config/map.php:1028
+#: modules/js_composer/config/map.php:1136
+#: modules/js_composer/config/map.php:1240
+#: modules/js_composer/config/map.php:1305
+#: modules/js_composer/config/map.php:1377
+#: modules/js_composer/config/map.php:1563
+#: modules/js_composer/config/map.php:1779
+#: modules/js_composer/config/map.php:1958
+#: modules/js_composer/config/map.php:2092
+#: modules/js_composer/config/map.php:2272
+#: modules/js_composer/config/map.php:2458
+#: modules/js_composer/config/map.php:2587
+#: modules/js_composer/config/map.php:2674 modules/kingcomposer/maps.php:76
+#: modules/kingcomposer/maps.php:162 modules/kingcomposer/maps.php:405
+#: modules/kingcomposer/maps.php:505 modules/kingcomposer/maps.php:567
+#: modules/kingcomposer/maps.php:664 modules/kingcomposer/maps.php:816
+#: modules/kingcomposer/maps.php:1124 modules/kingcomposer/maps.php:1233
+#: modules/kingcomposer/maps.php:1348 modules/kingcomposer/maps.php:1417
+#: modules/kingcomposer/maps.php:1486 modules/kingcomposer/maps.php:1687
+#: modules/kingcomposer/maps.php:1920 modules/kingcomposer/maps.php:2115
+#: modules/kingcomposer/maps.php:2259 modules/kingcomposer/maps.php:2450
+#: modules/kingcomposer/maps.php:2646 modules/kingcomposer/maps.php:2788
+#: modules/kingcomposer/maps.php:2884
+msgid "Enter order."
+msgstr ""
+
+#: modules/js_composer/config/map.php:513
+#: modules/js_composer/config/map.php:609
+#: modules/js_composer/config/map.php:752
+#: modules/js_composer/config/map.php:1033
+#: modules/js_composer/config/map.php:1382
+#: modules/js_composer/config/map.php:1574
+#: modules/js_composer/config/map.php:1790
+#: modules/js_composer/config/map.php:1969
+#: modules/js_composer/config/map.php:2103
+#: modules/js_composer/config/map.php:2283
+#: modules/js_composer/config/map.php:2463
+#: modules/js_composer/config/map.php:2598
+#: modules/js_composer/config/map.php:2691 modules/kingcomposer/maps.php:82
+#: modules/kingcomposer/maps.php:168 modules/kingcomposer/maps.php:573
+#: modules/kingcomposer/maps.php:670 modules/kingcomposer/maps.php:822
+#: modules/kingcomposer/maps.php:1130 modules/kingcomposer/maps.php:1492
+#: modules/kingcomposer/maps.php:1700 modules/kingcomposer/maps.php:1933
+#: modules/kingcomposer/maps.php:2128 modules/kingcomposer/maps.php:2272
+#: modules/kingcomposer/maps.php:2463 modules/kingcomposer/maps.php:2652
+#: modules/kingcomposer/maps.php:2801 modules/kingcomposer/maps.php:2904
+msgid "Product IDs"
+msgstr ""
+
+#: modules/js_composer/config/map.php:515
+#: modules/js_composer/config/map.php:611
+#: modules/js_composer/config/map.php:754
+#: modules/js_composer/config/map.php:1035
+#: modules/js_composer/config/map.php:1384
+#: modules/js_composer/config/map.php:1576
+#: modules/js_composer/config/map.php:1603
+#: modules/js_composer/config/map.php:1792
+#: modules/js_composer/config/map.php:1971
+#: modules/js_composer/config/map.php:2105
+#: modules/js_composer/config/map.php:2285
+#: modules/js_composer/config/map.php:2465
+#: modules/js_composer/config/map.php:2600
+#: modules/js_composer/config/map.php:2693 modules/kingcomposer/maps.php:84
+#: modules/kingcomposer/maps.php:170 modules/kingcomposer/maps.php:575
+#: modules/kingcomposer/maps.php:672 modules/kingcomposer/maps.php:824
+#: modules/kingcomposer/maps.php:1132 modules/kingcomposer/maps.php:1494
+#: modules/kingcomposer/maps.php:1702 modules/kingcomposer/maps.php:1731
+#: modules/kingcomposer/maps.php:1935 modules/kingcomposer/maps.php:2130
+#: modules/kingcomposer/maps.php:2274 modules/kingcomposer/maps.php:2465
+#: modules/kingcomposer/maps.php:2654 modules/kingcomposer/maps.php:2803
+#: modules/kingcomposer/maps.php:2906
+msgid "Enter id spearate by comma(,) Note: Only works with Products Shortcode."
+msgstr ""
+
+#: modules/js_composer/config/map.php:519
+#: modules/js_composer/config/map.php:615
+#: modules/js_composer/config/map.php:758
+#: modules/js_composer/config/map.php:1039
+#: modules/js_composer/config/map.php:1388
+#: modules/js_composer/config/map.php:1580
+#: modules/js_composer/config/map.php:1796
+#: modules/js_composer/config/map.php:1975
+#: modules/js_composer/config/map.php:2109
+#: modules/js_composer/config/map.php:2289
+#: modules/js_composer/config/map.php:2469
+#: modules/js_composer/config/map.php:2604
+#: modules/js_composer/config/map.php:2697 modules/kingcomposer/maps.php:89
+#: modules/kingcomposer/maps.php:175 modules/kingcomposer/maps.php:580
+#: modules/kingcomposer/maps.php:677 modules/kingcomposer/maps.php:829
+#: modules/kingcomposer/maps.php:1137 modules/kingcomposer/maps.php:1499
+#: modules/kingcomposer/maps.php:1707 modules/kingcomposer/maps.php:1940
+#: modules/kingcomposer/maps.php:2135 modules/kingcomposer/maps.php:2279
+#: modules/kingcomposer/maps.php:2470 modules/kingcomposer/maps.php:2659
+#: modules/kingcomposer/maps.php:2808 modules/kingcomposer/maps.php:2911
+msgid "Category"
+msgstr ""
+
+#: modules/js_composer/config/map.php:521
+#: modules/js_composer/config/map.php:617
+#: modules/js_composer/config/map.php:760
+#: modules/js_composer/config/map.php:1041
+#: modules/js_composer/config/map.php:1390
+#: modules/js_composer/config/map.php:1582
+#: modules/js_composer/config/map.php:1609
+#: modules/js_composer/config/map.php:1798
+#: modules/js_composer/config/map.php:1977
+#: modules/js_composer/config/map.php:2111
+#: modules/js_composer/config/map.php:2291
+#: modules/js_composer/config/map.php:2471
+#: modules/js_composer/config/map.php:2606
+#: modules/js_composer/config/map.php:2699 modules/kingcomposer/maps.php:91
+#: modules/kingcomposer/maps.php:177 modules/kingcomposer/maps.php:582
+#: modules/kingcomposer/maps.php:679 modules/kingcomposer/maps.php:831
+#: modules/kingcomposer/maps.php:1139 modules/kingcomposer/maps.php:1501
+#: modules/kingcomposer/maps.php:1709 modules/kingcomposer/maps.php:1738
+#: modules/kingcomposer/maps.php:1942 modules/kingcomposer/maps.php:2137
+#: modules/kingcomposer/maps.php:2281 modules/kingcomposer/maps.php:2472
+#: modules/kingcomposer/maps.php:2661 modules/kingcomposer/maps.php:2810
+#: modules/kingcomposer/maps.php:2913
+msgid ""
+"Enter id spearate by comma(,) Note: Only works with Product Category "
+"Shortcode."
+msgstr ""
+
+#: modules/js_composer/config/map.php:525
+#: modules/js_composer/config/map.php:1045
+#: modules/js_composer/config/map.php:1399
+#: modules/js_composer/config/map.php:1615
+#: modules/js_composer/config/map.php:1804
+#: modules/js_composer/config/map.php:1983
+#: modules/js_composer/config/map.php:2135
+#: modules/js_composer/config/map.php:2304 modules/kingcomposer/maps.php:587
+#: modules/kingcomposer/maps.php:1144 modules/kingcomposer/maps.php:1512
+#: modules/kingcomposer/maps.php:1745 modules/kingcomposer/maps.php:1949
+#: modules/kingcomposer/maps.php:2144 modules/kingcomposer/maps.php:2306
+#: modules/kingcomposer/maps.php:2484
+msgid "Infinite?"
+msgstr ""
+
+#: modules/js_composer/config/map.php:527
+#: modules/js_composer/config/map.php:1047
+#: modules/js_composer/config/map.php:1401
+#: modules/js_composer/config/map.php:1617
+#: modules/js_composer/config/map.php:1806
+#: modules/js_composer/config/map.php:1985
+#: modules/js_composer/config/map.php:2137
+#: modules/js_composer/config/map.php:2306 modules/kingcomposer/maps.php:589
+#: modules/kingcomposer/maps.php:1146 modules/kingcomposer/maps.php:1514
+#: modules/kingcomposer/maps.php:1747 modules/kingcomposer/maps.php:1951
+#: modules/kingcomposer/maps.php:2146 modules/kingcomposer/maps.php:2308
+#: modules/kingcomposer/maps.php:2486
+msgid "Check to show Infinite Carousel."
+msgstr ""
+
+#: modules/js_composer/config/map.php:534
+#: modules/js_composer/config/map.php:659
+#: modules/js_composer/config/map.php:1054
+#: modules/js_composer/config/map.php:1436
+#: modules/js_composer/config/map.php:1652
+#: modules/js_composer/config/map.php:1837
+#: modules/js_composer/config/map.php:2004
+#: modules/js_composer/config/map.php:2168
+#: modules/js_composer/config/map.php:2337 modules/kingcomposer/maps.php:594
+#: modules/kingcomposer/maps.php:721 modules/kingcomposer/maps.php:1151
+#: modules/kingcomposer/maps.php:1551 modules/kingcomposer/maps.php:1784
+#: modules/kingcomposer/maps.php:1984 modules/kingcomposer/maps.php:2165
+#: modules/kingcomposer/maps.php:2341 modules/kingcomposer/maps.php:2519
+msgid "Dots?"
+msgstr ""
+
+#: modules/js_composer/config/map.php:536
+#: modules/js_composer/config/map.php:661
+#: modules/js_composer/config/map.php:1056
+#: modules/js_composer/config/map.php:1438
+#: modules/js_composer/config/map.php:1654
+#: modules/js_composer/config/map.php:1839
+#: modules/js_composer/config/map.php:2006
+#: modules/js_composer/config/map.php:2170
+#: modules/js_composer/config/map.php:2339 modules/kingcomposer/maps.php:596
+#: modules/kingcomposer/maps.php:723 modules/kingcomposer/maps.php:1153
+#: modules/kingcomposer/maps.php:1553 modules/kingcomposer/maps.php:1786
+#: modules/kingcomposer/maps.php:1986 modules/kingcomposer/maps.php:2167
+#: modules/kingcomposer/maps.php:2343 modules/kingcomposer/maps.php:2521
+msgid "Check to show Dots."
+msgstr ""
+
+#: modules/js_composer/config/map.php:543
+#: modules/js_composer/config/map.php:1063
+#: modules/js_composer/config/map.php:1445
+#: modules/js_composer/config/map.php:1661
+#: modules/js_composer/config/map.php:1846
+#: modules/js_composer/config/map.php:2177
+#: modules/js_composer/config/map.php:2346 modules/kingcomposer/maps.php:601
+#: modules/kingcomposer/maps.php:1158 modules/kingcomposer/maps.php:1558
+#: modules/kingcomposer/maps.php:1791 modules/kingcomposer/maps.php:1991
+#: modules/kingcomposer/maps.php:2348 modules/kingcomposer/maps.php:2526
+msgid "Arrows?"
+msgstr ""
+
+#: modules/js_composer/config/map.php:545
+#: modules/js_composer/config/map.php:1065
+#: modules/js_composer/config/map.php:1447
+#: modules/js_composer/config/map.php:1663
+#: modules/js_composer/config/map.php:1848
+#: modules/js_composer/config/map.php:2179
+#: modules/js_composer/config/map.php:2348 modules/kingcomposer/maps.php:603
+#: modules/kingcomposer/maps.php:1160 modules/kingcomposer/maps.php:1560
+#: modules/kingcomposer/maps.php:1793 modules/kingcomposer/maps.php:1993
+#: modules/kingcomposer/maps.php:2350 modules/kingcomposer/maps.php:2528
+msgid "Check to show Arrows."
+msgstr ""
+
+#: modules/js_composer/config/map.php:560
+#: modules/js_composer/config/map.php:562 modules/kingcomposer/maps.php:616
+#: modules/kingcomposer/maps.php:617
+msgid "Deals Cards Carousel"
+msgstr ""
+
+#: modules/js_composer/config/map.php:621
+#: modules/js_composer/config/map.php:764
+#: modules/js_composer/config/map.php:1100
+#: modules/js_composer/config/map.php:2295 modules/kingcomposer/maps.php:684
+#: modules/kingcomposer/maps.php:836 modules/kingcomposer/maps.php:1195
+#: modules/kingcomposer/maps.php:2477
+msgid "Header Navigation?"
+msgstr ""
+
+#: modules/js_composer/config/map.php:623
+#: modules/js_composer/config/map.php:2297
+msgid "Check to show Header Navigation."
+msgstr ""
+
+#: modules/js_composer/config/map.php:630
+#: modules/js_composer/config/map.php:2115
+#: modules/js_composer/config/map.php:2475 modules/kingcomposer/maps.php:691
+#: modules/kingcomposer/maps.php:2286 modules/kingcomposer/maps.php:2666
+msgid "Header Timer?"
+msgstr ""
+
+#: modules/js_composer/config/map.php:632
+#: modules/js_composer/config/map.php:766
+#: modules/js_composer/config/map.php:2116
+#: modules/js_composer/config/map.php:2477 modules/kingcomposer/maps.php:693
+#: modules/kingcomposer/maps.php:2288 modules/kingcomposer/maps.php:2668
+msgid "Check to show Header Timer."
+msgstr ""
+
+#: modules/js_composer/config/map.php:639
+#: modules/js_composer/config/map.php:2124
+#: modules/js_composer/config/map.php:2490 modules/kingcomposer/maps.php:698
+#: modules/kingcomposer/maps.php:2293 modules/kingcomposer/maps.php:2680
+msgid "Timer Value"
+msgstr ""
+
+#: modules/js_composer/config/map.php:640
+#: modules/js_composer/config/map.php:2125
+#: modules/js_composer/config/map.php:2491 modules/kingcomposer/maps.php:700
+#: modules/kingcomposer/maps.php:2295 modules/kingcomposer/maps.php:2682
+msgid "Enter the timer value."
+msgstr ""
+
+#: modules/js_composer/config/map.php:703
+#: modules/js_composer/config/map.php:705 modules/kingcomposer/maps.php:768
+#: modules/kingcomposer/maps.php:769
+msgid "Deals Carousel"
+msgstr ""
+
+#: modules/js_composer/config/map.php:781 modules/kingcomposer/maps.php:851
+#: modules/kingcomposer/maps.php:852
+msgid "Features List"
+msgstr ""
+
+#: modules/js_composer/config/map.php:783
+msgid "Add Feature List to your page."
+msgstr ""
+
+#: modules/js_composer/config/map.php:794 modules/kingcomposer/maps.php:868
+msgid "Icon"
+msgstr ""
+
+#: modules/js_composer/config/map.php:799 modules/kingcomposer/maps.php:874
+msgid "Label"
+msgstr ""
+
+#: modules/js_composer/config/map.php:814
+#: modules/js_composer/config/map.php:816 modules/kingcomposer/maps.php:890
+#: modules/kingcomposer/maps.php:891
+msgid "Notice"
+msgstr ""
+
+#: modules/js_composer/config/map.php:822 modules/kingcomposer/maps.php:898
+msgid "Text"
+msgstr ""
+
+#: modules/js_composer/config/map.php:835 modules/kingcomposer/maps.php:912
+msgid "Jumbotron"
+msgstr ""
+
+#: modules/js_composer/config/map.php:837 modules/kingcomposer/maps.php:913
+msgid "Add Jumbotron to your page."
+msgstr ""
+
+#: modules/js_composer/config/map.php:861
+#: modules/js_composer/config/map.php:863 modules/kingcomposer/maps.php:940
+#: modules/kingcomposer/maps.php:941
+msgid "Media Single Banner"
+msgstr ""
+
+#: modules/js_composer/config/map.php:874
+#: modules/js_composer/config/map.php:2713
+#: modules/js_composer/config/map.php:2744 modules/kingcomposer/maps.php:954
+#: modules/kingcomposer/maps.php:2930 modules/kingcomposer/maps.php:2964
+msgid "Description"
+msgstr ""
+
+#: modules/js_composer/config/map.php:894 modules/kingcomposer/maps.php:978
+msgid "Media Align"
+msgstr ""
+
+#: modules/js_composer/config/map.php:898
+msgid "Media Left"
+msgstr ""
+
+#: modules/js_composer/config/map.php:899
+msgid "Media Right"
+msgstr ""
+
+#: modules/js_composer/config/map.php:912
+#: modules/js_composer/config/map.php:914 modules/kingcomposer/maps.php:996
+#: modules/kingcomposer/maps.php:997
+msgid "Poster"
+msgstr ""
+
+#: modules/js_composer/config/map.php:926 modules/kingcomposer/maps.php:206
+#: modules/kingcomposer/maps.php:297 modules/kingcomposer/maps.php:1010
+msgid "Select choice for background."
+msgstr ""
+
+#: modules/js_composer/config/map.php:971 modules/kingcomposer/maps.php:1063
+msgid "Condition"
+msgstr ""
+
+#: modules/js_composer/config/map.php:984
+#: modules/js_composer/config/map.php:986 modules/kingcomposer/maps.php:1077
+#: modules/kingcomposer/maps.php:1078
+msgid "Products Cards Carousel with Gallery"
+msgstr ""
+
+#: modules/js_composer/config/map.php:1080
+#: modules/js_composer/config/map.php:1082 modules/kingcomposer/maps.php:1173
+#: modules/kingcomposer/maps.php:1174
+msgid "Products Categories Carousel"
+msgstr ""
+
+#: modules/js_composer/config/map.php:1090
+#: modules/js_composer/config/map.php:2407 modules/kingcomposer/maps.php:1183
+#: modules/kingcomposer/maps.php:2591
+msgid "Enter pre title."
+msgstr ""
+
+#: modules/js_composer/config/map.php:1102 modules/kingcomposer/maps.php:686
+#: modules/kingcomposer/maps.php:838 modules/kingcomposer/maps.php:1197
+#: modules/kingcomposer/maps.php:2479
+msgid "Check to show Custom Navigation."
+msgstr ""
+
+#: modules/js_composer/config/map.php:1115 modules/kingcomposer/maps.php:1209
+msgid "Button Text"
+msgstr ""
+
+#: modules/js_composer/config/map.php:1117 modules/kingcomposer/maps.php:1211
+msgid "Enter the button text."
+msgstr ""
+
+#: modules/js_composer/config/map.php:1121 modules/kingcomposer/maps.php:1216
+msgid "Button Link"
+msgstr ""
+
+#: modules/js_composer/config/map.php:1123 modules/kingcomposer/maps.php:1218
+msgid "Enter the button link."
+msgstr ""
+
+#: modules/js_composer/config/map.php:1148
+#: modules/js_composer/config/map.php:1317 modules/kingcomposer/maps.php:1248
+#: modules/kingcomposer/maps.php:1432
+msgid "Check to hide empty products."
+msgstr ""
+
+#: modules/js_composer/config/map.php:1203
+#: modules/js_composer/config/map.php:1205 modules/kingcomposer/maps.php:1307
+#: modules/kingcomposer/maps.php:1308
+msgid "Product Categories Filter"
+msgstr ""
+
+#: modules/js_composer/config/map.php:1224
+#: modules/js_composer/config/map.php:2572
+#: modules/js_composer/config/map.php:2679 modules/kingcomposer/maps.php:1330
+#: modules/kingcomposer/maps.php:2771 modules/kingcomposer/maps.php:2890
+msgid "Columns"
+msgstr ""
+
+#: modules/js_composer/config/map.php:1226
+#: modules/js_composer/config/map.php:2574
+#: modules/js_composer/config/map.php:2681 modules/kingcomposer/maps.php:1332
+#: modules/kingcomposer/maps.php:2773 modules/kingcomposer/maps.php:2892
+msgid "Enter the number of columns to display."
+msgstr ""
+
+#: modules/js_composer/config/map.php:1245
+#: modules/js_composer/config/map.php:1568
+#: modules/js_composer/config/map.php:1784
+#: modules/js_composer/config/map.php:1963
+#: modules/js_composer/config/map.php:2097
+#: modules/js_composer/config/map.php:2277
+#: modules/js_composer/config/map.php:2592
+#: modules/js_composer/config/map.php:2685 modules/kingcomposer/maps.php:1354
+#: modules/kingcomposer/maps.php:1693 modules/kingcomposer/maps.php:1926
+#: modules/kingcomposer/maps.php:2121 modules/kingcomposer/maps.php:2265
+#: modules/kingcomposer/maps.php:2456 modules/kingcomposer/maps.php:2794
+#: modules/kingcomposer/maps.php:2897
+msgid "Template"
+msgstr ""
+
+#: modules/js_composer/config/map.php:1247 modules/kingcomposer/maps.php:1356
+msgid "Enter template."
+msgstr ""
+
+#: modules/js_composer/config/map.php:1252 modules/kingcomposer/maps.php:1362
+msgid "Category show all text"
+msgstr ""
+
+#: modules/js_composer/config/map.php:1254 modules/kingcomposer/maps.php:1364
+msgid "Enter Category show all option text"
+msgstr ""
+
+#: modules/js_composer/config/map.php:1255 modules/kingcomposer/maps.php:1365
+#: modules/theme-shortcodes/elements/product-categories-filter.php:14
+msgid "All Categories"
+msgstr ""
+
+#: modules/js_composer/config/map.php:1260 modules/kingcomposer/maps.php:1372
+msgid "Check to hide empty categories."
+msgstr ""
+
+#: modules/js_composer/config/map.php:1276
+#: modules/js_composer/config/map.php:1278 modules/kingcomposer/maps.php:1385
+#: modules/kingcomposer/maps.php:1386
+msgid "Products Categories List"
+msgstr ""
+
+#: modules/js_composer/config/map.php:1333
+#: modules/js_composer/config/map.php:1335 modules/kingcomposer/maps.php:1439
+#: modules/kingcomposer/maps.php:1440
+msgid "Products Cards Carousel with Image"
+msgstr ""
+
+#: modules/js_composer/config/map.php:1408
+#: modules/js_composer/config/map.php:1624
+#: modules/js_composer/config/map.php:1813
+#: modules/js_composer/config/map.php:2144
+#: modules/js_composer/config/map.php:2313 modules/kingcomposer/maps.php:1519
+#: modules/kingcomposer/maps.php:1752 modules/kingcomposer/maps.php:1956
+#: modules/kingcomposer/maps.php:2313 modules/kingcomposer/maps.php:2491
+msgid "rows"
+msgstr ""
+
+#: modules/js_composer/config/map.php:1411
+#: modules/js_composer/config/map.php:1627
+#: modules/js_composer/config/map.php:1815
+#: modules/js_composer/config/map.php:2146
+#: modules/js_composer/config/map.php:2315 modules/kingcomposer/maps.php:1522
+#: modules/kingcomposer/maps.php:1754 modules/kingcomposer/maps.php:1958
+#: modules/kingcomposer/maps.php:2315 modules/kingcomposer/maps.php:2493
+msgid "Enter the number of rows to display."
+msgstr ""
+
+#: modules/js_composer/config/map.php:1415
+#: modules/js_composer/config/map.php:1465
+#: modules/js_composer/config/map.php:1631
+#: modules/js_composer/config/map.php:1681
+#: modules/js_composer/config/map.php:1819
+#: modules/js_composer/config/map.php:1866
+#: modules/js_composer/config/map.php:2150
+#: modules/js_composer/config/map.php:2197
+#: modules/js_composer/config/map.php:2319
+#: modules/js_composer/config/map.php:2366 modules/kingcomposer/maps.php:1527
+#: modules/kingcomposer/maps.php:1581 modules/kingcomposer/maps.php:1760
+#: modules/kingcomposer/maps.php:1814 modules/kingcomposer/maps.php:1963
+#: modules/kingcomposer/maps.php:2014 modules/kingcomposer/maps.php:2320
+#: modules/kingcomposer/maps.php:2371 modules/kingcomposer/maps.php:2498
+#: modules/kingcomposer/maps.php:2549
+msgid "slidesPerRow"
+msgstr ""
+
+#: modules/js_composer/config/map.php:1418
+#: modules/js_composer/config/map.php:1468
+#: modules/js_composer/config/map.php:1634
+#: modules/js_composer/config/map.php:1684
+#: modules/js_composer/config/map.php:1821
+#: modules/js_composer/config/map.php:1869
+#: modules/js_composer/config/map.php:2152
+#: modules/js_composer/config/map.php:2200
+#: modules/js_composer/config/map.php:2321
+#: modules/js_composer/config/map.php:2369 modules/kingcomposer/maps.php:1530
+#: modules/kingcomposer/maps.php:1584 modules/kingcomposer/maps.php:1762
+#: modules/kingcomposer/maps.php:1817 modules/kingcomposer/maps.php:1965
+#: modules/kingcomposer/maps.php:2017 modules/kingcomposer/maps.php:2322
+#: modules/kingcomposer/maps.php:2374 modules/kingcomposer/maps.php:2500
+#: modules/kingcomposer/maps.php:2552
+msgid "Enter the number of items to display in a row."
+msgstr ""
+
+#: modules/js_composer/config/map.php:1496
+#: modules/js_composer/config/map.php:1498 modules/kingcomposer/maps.php:1613
+#: modules/kingcomposer/maps.php:1614
+msgid "Products Carousel Tabs with Featured Product"
+msgstr ""
+
+#: modules/js_composer/config/map.php:1510
+#: modules/js_composer/config/map.php:1726
+#: modules/js_composer/config/map.php:2528 modules/kingcomposer/maps.php:1628
+#: modules/kingcomposer/maps.php:1861 modules/kingcomposer/maps.php:2722
+msgid "Header Align"
+msgstr ""
+
+#: modules/js_composer/config/map.php:1514
+#: modules/js_composer/config/map.php:1730
+#: modules/js_composer/config/map.php:2532 modules/kingcomposer/maps.php:1631
+#: modules/kingcomposer/maps.php:1864 modules/kingcomposer/maps.php:2725
+msgid "Start"
+msgstr ""
+
+#: modules/js_composer/config/map.php:1515
+#: modules/js_composer/config/map.php:1731
+#: modules/js_composer/config/map.php:2533 modules/kingcomposer/maps.php:1632
+#: modules/kingcomposer/maps.php:1865 modules/kingcomposer/maps.php:2726
+msgid "Center"
+msgstr ""
+
+#: modules/js_composer/config/map.php:1516
+#: modules/js_composer/config/map.php:1732
+#: modules/js_composer/config/map.php:2534 modules/kingcomposer/maps.php:1633
+#: modules/kingcomposer/maps.php:1866 modules/kingcomposer/maps.php:2727
+msgid "End"
+msgstr ""
+
+#: modules/js_composer/config/map.php:1522
+#: modules/js_composer/config/map.php:1738
+#: modules/js_composer/config/map.php:1917
+#: modules/js_composer/config/map.php:2540 modules/kingcomposer/maps.php:35
+#: modules/kingcomposer/maps.php:121 modules/kingcomposer/maps.php:1639
+#: modules/kingcomposer/maps.php:1872 modules/kingcomposer/maps.php:2067
+#: modules/kingcomposer/maps.php:2733
+msgid "Tabs"
+msgstr ""
+
+#: modules/js_composer/config/map.php:1570
+#: modules/js_composer/config/map.php:1786
+#: modules/js_composer/config/map.php:1965
+#: modules/js_composer/config/map.php:2099
+#: modules/js_composer/config/map.php:2279
+#: modules/js_composer/config/map.php:2594
+#: modules/js_composer/config/map.php:2687 modules/kingcomposer/maps.php:1695
+#: modules/kingcomposer/maps.php:1928 modules/kingcomposer/maps.php:2123
+#: modules/kingcomposer/maps.php:2267 modules/kingcomposer/maps.php:2458
+#: modules/kingcomposer/maps.php:2796 modules/kingcomposer/maps.php:2899
+msgid "Enter product template Default: content-product"
+msgstr ""
+
+#: modules/js_composer/config/map.php:1586 modules/kingcomposer/maps.php:1714
+msgid "Shortcode Featured"
+msgstr ""
+
+#: modules/js_composer/config/map.php:1601 modules/kingcomposer/maps.php:1729
+msgid "Product IDs Featured"
+msgstr ""
+
+#: modules/js_composer/config/map.php:1607 modules/kingcomposer/maps.php:1736
+msgid "Category Featured"
+msgstr ""
+
+#: modules/js_composer/config/map.php:1712
+#: modules/js_composer/config/map.php:1714 modules/kingcomposer/maps.php:1846
+#: modules/kingcomposer/maps.php:1847
+msgid "Products Carousel Tabs"
+msgstr ""
+
+#: modules/js_composer/config/map.php:1897
+#: modules/js_composer/config/map.php:1899 modules/kingcomposer/maps.php:2046
+#: modules/kingcomposer/maps.php:2047
+msgid "Products Carousel Vertical Tabs"
+msgstr ""
+
+#: modules/js_composer/config/map.php:2048
+#: modules/js_composer/config/map.php:2050 modules/kingcomposer/maps.php:2212
+#: modules/kingcomposer/maps.php:2213
+msgid "Products Carousel with Image"
+msgstr ""
+
+#: modules/js_composer/config/map.php:2058
+#: modules/js_composer/config/map.php:2238
+#: modules/js_composer/config/map.php:2413
+#: modules/js_composer/config/map.php:2640
+msgid "Enter Title."
+msgstr ""
+
+#: modules/js_composer/config/map.php:2228
+#: modules/js_composer/config/map.php:2230 modules/kingcomposer/maps.php:2403
+#: modules/kingcomposer/maps.php:2404
+msgid "Products Carousel"
+msgstr ""
+
+#: modules/js_composer/config/map.php:2397
+#: modules/js_composer/config/map.php:2399 modules/kingcomposer/maps.php:2581
+#: modules/kingcomposer/maps.php:2582
+msgid "Products Isotope"
+msgstr ""
+
+#: modules/js_composer/config/map.php:2417 modules/kingcomposer/maps.php:2603
+msgid "Style"
+msgstr ""
+
+#: modules/js_composer/config/map.php:2421 modules/kingcomposer/maps.php:2606
+msgid "Style 1"
+msgstr ""
+
+#: modules/js_composer/config/map.php:2422 modules/kingcomposer/maps.php:2607
+msgid "Style 2"
+msgstr ""
+
+#: modules/js_composer/config/map.php:2424 modules/kingcomposer/maps.php:2609
+msgid "Select style for products."
+msgstr ""
+
+#: modules/js_composer/config/map.php:2484 modules/kingcomposer/maps.php:2673
+msgid "Timer Title"
+msgstr ""
+
+#: modules/js_composer/config/map.php:2485 modules/kingcomposer/maps.php:2675
+msgid "Enter the timer title."
+msgstr ""
+
+#: modules/js_composer/config/map.php:2514
+#: modules/js_composer/config/map.php:2516 modules/kingcomposer/maps.php:2707
+#: modules/kingcomposer/maps.php:2708
+msgid "Products Tabs"
+msgstr ""
+
+#: modules/js_composer/config/map.php:2630
+#: modules/js_composer/config/map.php:2632 modules/kingcomposer/maps.php:2837
+#: modules/kingcomposer/maps.php:2838
+msgid "Products with Image"
+msgstr ""
+
+#: modules/js_composer/config/map.php:2731
+#: modules/js_composer/config/map.php:2733 modules/kingcomposer/maps.php:2950
+#: modules/kingcomposer/maps.php:2951
+msgid "Recent Posts with Categories"
+msgstr ""
+
+#: modules/js_composer/config/map.php:2749 modules/kingcomposer/maps.php:2970
+msgid "Choice"
+msgstr ""
+
+#: modules/js_composer/config/map.php:2753 modules/kingcomposer/maps.php:2973
+msgid "Recent"
+msgstr ""
+
+#: modules/js_composer/config/map.php:2754 modules/kingcomposer/maps.php:2974
+msgid "Random"
+msgstr ""
+
+#: modules/js_composer/config/map.php:2755 modules/kingcomposer/maps.php:2975
+msgid "Specific"
+msgstr ""
+
+#: modules/js_composer/config/map.php:2757 modules/kingcomposer/maps.php:2977
+msgid "Select choice for posts."
+msgstr ""
+
+#: modules/js_composer/config/map.php:2761 modules/kingcomposer/maps.php:2982
+msgid "IDs"
+msgstr ""
+
+#: modules/js_composer/config/map.php:2763 modules/kingcomposer/maps.php:2984
+msgid "Enter id spearate by comma(,) Note: Only works with specific choice."
+msgstr ""
+
+#: modules/js_composer/config/map.php:2769 modules/kingcomposer/maps.php:2991
+msgid "Enter the number of posts to display."
+msgstr ""
+
+#: modules/js_composer/config/map.php:2773 modules/kingcomposer/maps.php:2996
+msgid "Show Read More"
+msgstr ""
+
+#: modules/js_composer/config/map.php:2775 modules/kingcomposer/maps.php:2998
+msgid "Check to show Read More."
+msgstr ""
+
+#: modules/js_composer/config/map.php:2782 modules/kingcomposer/maps.php:3003
+msgid "Category Limit"
+msgstr ""
+
+#: modules/js_composer/config/map.php:2784 modules/kingcomposer/maps.php:3005
+msgid "Enter the number of category to display."
+msgstr ""
+
+#: modules/js_composer/config/map.php:2788 modules/kingcomposer/maps.php:3010
+msgid "Category Slugs"
+msgstr ""
+
+#: modules/js_composer/config/map.php:2790 modules/kingcomposer/maps.php:3012
+msgid "Enter slug spearate by comma(,)"
+msgstr ""
+
+#: modules/js_composer/config/map.php:2802
+#: modules/js_composer/config/map.php:2804 modules/kingcomposer/maps.php:3025
+#: modules/kingcomposer/maps.php:3026
+msgid "Team Member"
+msgstr ""
+
+#: modules/js_composer/config/map.php:2810
+#: modules/js_composer/config/map.php:2898 modules/kingcomposer/maps.php:3033
+#: modules/kingcomposer/maps.php:3116
+msgid "Name"
+msgstr ""
+
+#: modules/js_composer/config/map.php:2815 modules/kingcomposer/maps.php:3039
+msgid "Designation"
+msgstr ""
+
+#: modules/js_composer/config/map.php:2833 modules/kingcomposer/maps.php:3053
+msgid "Terms"
+msgstr ""
+
+#: modules/js_composer/config/map.php:2835 modules/kingcomposer/maps.php:3054
+msgid ""
+"Adds a shortcode for get_terms. Used to get terms including categories, "
+"product categories, etc."
+msgstr ""
+
+#: modules/js_composer/config/map.php:2843 modules/kingcomposer/maps.php:3061
+msgid "Taxonomy"
+msgstr ""
+
+#: modules/js_composer/config/map.php:2845 modules/kingcomposer/maps.php:3063
+msgid ""
+"Taxonomy name, or comma-separated taxonomies, to which results should be "
+"limited."
+msgstr ""
+
+#: modules/js_composer/config/map.php:2865 modules/kingcomposer/maps.php:3083
+msgid "Hide Empty ?"
+msgstr ""
+
+#: modules/js_composer/config/map.php:2867 modules/kingcomposer/maps.php:3085
+msgid "Whether to hide terms not assigned to any posts. Accepts 1 or 0. Default 0."
+msgstr ""
+
+#: modules/js_composer/config/map.php:2872 modules/kingcomposer/maps.php:3090
+msgid "Include IDs"
+msgstr ""
+
+#: modules/js_composer/config/map.php:2874 modules/kingcomposer/maps.php:3092
+msgid "Comma-separated string of term ids to include."
+msgstr ""
+
+#: modules/js_composer/config/map.php:2878 modules/kingcomposer/maps.php:3096
+msgid "Exclude IDs"
+msgstr ""
+
+#: modules/js_composer/config/map.php:2880 modules/kingcomposer/maps.php:3098
+msgid ""
+"Comma-separated string of term ids to exclude. If Include is non-empty, "
+"Exclude is ignored."
+msgstr ""
+
+#: modules/js_composer/config/map.php:2884 modules/kingcomposer/maps.php:3102
+msgid "Number"
+msgstr ""
+
+#: modules/js_composer/config/map.php:2886 modules/kingcomposer/maps.php:3104
+msgid ""
+"Maximum number of terms to return. Accepts 0 (all) or any positive number. "
+"Default 0 (all)."
+msgstr ""
+
+#: modules/js_composer/config/map.php:2891 modules/kingcomposer/maps.php:3109
+msgid "Offset"
+msgstr ""
+
+#: modules/js_composer/config/map.php:2893 modules/kingcomposer/maps.php:3111
+msgid "The number by which to offset the terms query."
+msgstr ""
+
+#: modules/js_composer/config/map.php:2900 modules/kingcomposer/maps.php:3118
+msgid "Name or comma-separated string of names to return term(s) for."
+msgstr ""
+
+#: modules/js_composer/config/map.php:2904 modules/kingcomposer/maps.php:3122
+msgid "Slug"
+msgstr ""
+
+#: modules/js_composer/config/map.php:2906 modules/kingcomposer/maps.php:3124
+msgid "Slug or comma-separated string of slugs to return term(s) for."
+msgstr ""
+
+#: modules/js_composer/config/map.php:2910 modules/kingcomposer/maps.php:3128
+msgid "Hierarchical"
+msgstr ""
+
+#: modules/js_composer/config/map.php:2912 modules/kingcomposer/maps.php:3130
+msgid ""
+"Whether to include terms that have non-empty descendants. Accepts 1 (true) "
+"or 0 (false). Default 1 (true)"
+msgstr ""
+
+#: modules/js_composer/config/map.php:2917 modules/kingcomposer/maps.php:3135
+msgid "Child Of"
+msgstr ""
+
+#: modules/js_composer/config/map.php:2919 modules/kingcomposer/maps.php:3137
+msgid ""
+"Term ID to retrieve child terms of. If multiple taxonomies are passed, "
+"child_of is ignored. Default 0."
+msgstr ""
+
+#: modules/js_composer/config/map.php:2924 modules/kingcomposer/maps.php:3142
+msgid "Include \"Child Of\" term ?"
+msgstr ""
+
+#: modules/js_composer/config/map.php:2926 modules/kingcomposer/maps.php:3144
+msgid ""
+"Include \"Child Of\" term in the terms list. Accepts 1 (yes) or 0 (no). "
+"Default 1."
+msgstr ""
+
+#: modules/js_composer/config/map.php:2931 modules/kingcomposer/maps.php:3149
+msgid "Parent"
+msgstr ""
+
+#: modules/js_composer/config/map.php:2933 modules/kingcomposer/maps.php:3151
+msgid "Parent term ID to retrieve direct-child terms of."
+msgstr ""
+
+#: modules/kingcomposer/maps.php:16
+msgid "3-2-3 Products Cards Tabs Settings"
+msgstr ""
+
+#: modules/kingcomposer/maps.php:39 modules/kingcomposer/maps.php:125
+#: modules/kingcomposer/maps.php:1643 modules/kingcomposer/maps.php:1876
+#: modules/kingcomposer/maps.php:2071 modules/kingcomposer/maps.php:2737
+msgid "Add new tab"
+msgstr ""
+
+#: modules/kingcomposer/maps.php:66 modules/kingcomposer/maps.php:152
+#: modules/kingcomposer/maps.php:395 modules/kingcomposer/maps.php:495
+#: modules/kingcomposer/maps.php:557 modules/kingcomposer/maps.php:654
+#: modules/kingcomposer/maps.php:806 modules/kingcomposer/maps.php:1114
+#: modules/kingcomposer/maps.php:1223 modules/kingcomposer/maps.php:1338
+#: modules/kingcomposer/maps.php:1407 modules/kingcomposer/maps.php:1476
+#: modules/kingcomposer/maps.php:1677 modules/kingcomposer/maps.php:1910
+#: modules/kingcomposer/maps.php:2105 modules/kingcomposer/maps.php:2249
+#: modules/kingcomposer/maps.php:2440 modules/kingcomposer/maps.php:2636
+#: modules/kingcomposer/maps.php:2778 modules/kingcomposer/maps.php:2874
+msgid "Orderby"
+msgstr ""
+
+#: modules/kingcomposer/maps.php:98 modules/kingcomposer/maps.php:184
+#: modules/kingcomposer/maps.php:266 modules/kingcomposer/maps.php:357
+#: modules/kingcomposer/maps.php:365 modules/kingcomposer/maps.php:608
+#: modules/kingcomposer/maps.php:760 modules/kingcomposer/maps.php:843
+#: modules/kingcomposer/maps.php:882 modules/kingcomposer/maps.php:904
+#: modules/kingcomposer/maps.php:988 modules/kingcomposer/maps.php:1069
+#: modules/kingcomposer/maps.php:1165 modules/kingcomposer/maps.php:1299
+#: modules/kingcomposer/maps.php:1377 modules/kingcomposer/maps.php:1605
+#: modules/kingcomposer/maps.php:1838 modules/kingcomposer/maps.php:2038
+#: modules/kingcomposer/maps.php:2204 modules/kingcomposer/maps.php:2395
+#: modules/kingcomposer/maps.php:2573 modules/kingcomposer/maps.php:2699
+#: modules/kingcomposer/maps.php:2829 modules/kingcomposer/maps.php:2942
+#: modules/kingcomposer/maps.php:3017
+msgid "Extra class name"
+msgstr ""
+
+#: modules/kingcomposer/maps.php:109
+msgid "6-1-6 Products Tabs with Deals Settings"
+msgstr ""
+
+#: modules/kingcomposer/maps.php:195
+msgid "Banner Settings"
+msgstr ""
+
+#: modules/kingcomposer/maps.php:277
+msgid "Banners Settings"
+msgstr ""
+
+#: modules/kingcomposer/maps.php:286
+msgid "Add new banner"
+msgstr ""
+
+#: modules/kingcomposer/maps.php:376
+msgid "Brands Carousel Settings"
+msgstr ""
+
+#: modules/kingcomposer/maps.php:390 modules/kingcomposer/maps.php:490
+msgid "Enter the number of brands to display."
+msgstr ""
+
+#: modules/kingcomposer/maps.php:439 modules/kingcomposer/maps.php:728
+#: modules/kingcomposer/maps.php:1267 modules/kingcomposer/maps.php:1565
+#: modules/kingcomposer/maps.php:1798 modules/kingcomposer/maps.php:1998
+#: modules/kingcomposer/maps.php:2172 modules/kingcomposer/maps.php:2355
+#: modules/kingcomposer/maps.php:2533
+msgid "Responsive"
+msgstr ""
+
+#: modules/kingcomposer/maps.php:443 modules/kingcomposer/maps.php:732
+#: modules/kingcomposer/maps.php:1271 modules/kingcomposer/maps.php:1569
+#: modules/kingcomposer/maps.php:1802 modules/kingcomposer/maps.php:2002
+#: modules/kingcomposer/maps.php:2176 modules/kingcomposer/maps.php:2359
+#: modules/kingcomposer/maps.php:2537
+msgid "Add new breakpoint"
+msgstr ""
+
+#: modules/kingcomposer/maps.php:476
+msgid "Brands Settings"
+msgstr ""
+
+#: modules/kingcomposer/maps.php:530
+msgid "Deals Cards Carousel with Gallery Settings"
+msgstr ""
+
+#: modules/kingcomposer/maps.php:619
+msgid "Deals Cards Carousel Settings"
+msgstr ""
+
+#: modules/kingcomposer/maps.php:771
+msgid "Deals Carousel Settings"
+msgstr ""
+
+#: modules/kingcomposer/maps.php:854
+msgid "Features List Settings"
+msgstr ""
+
+#: modules/kingcomposer/maps.php:859
+msgid "Features"
+msgstr ""
+
+#: modules/kingcomposer/maps.php:863
+msgid "Add new feature"
+msgstr ""
+
+#: modules/kingcomposer/maps.php:893
+msgid "Notice Settings"
+msgstr ""
+
+#: modules/kingcomposer/maps.php:915
+msgid "Jumbotron Settings"
+msgstr ""
+
+#: modules/kingcomposer/maps.php:943
+msgid "Media Single Banner Settings"
+msgstr ""
+
+#: modules/kingcomposer/maps.php:981
+msgid "Left"
+msgstr ""
+
+#: modules/kingcomposer/maps.php:982
+msgid "Rignt"
+msgstr ""
+
+#: modules/kingcomposer/maps.php:999
+msgid "Poster Settings"
+msgstr ""
+
+#: modules/kingcomposer/maps.php:1080
+msgid "Products Cards Carousel with Gallery Settings"
+msgstr ""
+
+#: modules/kingcomposer/maps.php:1176
+msgid "Products Categories Carousel Settings"
+msgstr ""
+
+#: modules/kingcomposer/maps.php:1310
+msgid "Product Categories Filter Settings"
+msgstr ""
+
+#: modules/kingcomposer/maps.php:1388
+msgid "Products Categories List Settings"
+msgstr ""
+
+#: modules/kingcomposer/maps.php:1442
+msgid "Products Cards Carousel with Image Settings"
+msgstr ""
+
+#: modules/kingcomposer/maps.php:1616
+msgid "Products Carousel Tabs with Featured Product Settings"
+msgstr ""
+
+#: modules/kingcomposer/maps.php:1849
+msgid "Products Carousel Tabs Settings"
+msgstr ""
+
+#: modules/kingcomposer/maps.php:2049
+msgid "Products Carousel Vertical Tabs Settings"
+msgstr ""
+
+#: modules/kingcomposer/maps.php:2215
+msgid "Products Carousel with Image Settings"
+msgstr ""
+
+#: modules/kingcomposer/maps.php:2406
+msgid "Products Carousel Settings"
+msgstr ""
+
+#: modules/kingcomposer/maps.php:2584
+msgid "Products Isotope Settings"
+msgstr ""
+
+#: modules/kingcomposer/maps.php:2710
+msgid "Products Tabs Settings"
+msgstr ""
+
+#: modules/kingcomposer/maps.php:2840
+msgid "Products with Image Settings"
+msgstr ""
+
+#: modules/kingcomposer/maps.php:2953
+msgid "Recent Posts with Categories Settings"
+msgstr ""
+
+#: modules/kingcomposer/maps.php:3028
+msgid "Team Member Settings"
+msgstr ""
+
+#: modules/kingcomposer/maps.php:3056
+msgid "Terms Settings"
+msgstr ""
+
+#: modules/kingcomposer/maps.php:3168
+msgid "No sliders found"
+msgstr ""
+
+#: modules/kingcomposer/maps.php:3172 modules/kingcomposer/maps.php:3180
+msgid "Revolution Slider"
+msgstr ""
+
+#: modules/kingcomposer/maps.php:3173
+msgid "Select your Revolution Slider."
+msgstr ""
+
+#: modules/kingcomposer/maps.php:3175
+msgid "Revolution Slider Settings"
+msgstr ""
+
+#: modules/post-formats/post-formats.php:70
+msgid "Loading..."
+msgstr ""
+
+#: modules/post-formats/views/format-audio.php:6
+msgid "Audio Options"
+msgstr ""
+
+#: modules/post-formats/views/format-audio.php:10
+msgid "Enter the paths to your audio files in the fields below"
+msgstr ""
+
+#: modules/post-formats/views/format-audio.php:17
+msgid "MP3 File URL"
+msgstr ""
+
+#: modules/post-formats/views/format-audio.php:18
+msgid "URL to an .mp3 file"
+msgstr ""
+
+#: modules/post-formats/views/format-audio.php:28
+msgid "OGA File URL"
+msgstr ""
+
+#: modules/post-formats/views/format-audio.php:29
+msgid "URL to an .oga or .ogg file"
+msgstr ""
+
+#: modules/post-formats/views/format-audio.php:39
+msgid "Embedded Audio"
+msgstr ""
+
+#: modules/post-formats/views/format-audio.php:40
+msgid "Add embedded audio formats."
+msgstr ""
+
+#: modules/post-formats/views/format-gallery.php:25
+msgid "Edit Gallery"
+msgstr ""
+
+#: modules/post-formats/views/format-gallery.php:25
+msgid "Add Images to Gallery"
+msgstr ""
+
+#: modules/post-formats/views/format-link.php:5
+#: modules/post-formats/views/format-link.php:12
+msgid "Link URL"
+msgstr ""
+
+#: modules/post-formats/views/format-link.php:13
+msgid "The URL of your link."
+msgstr ""
+
+#: modules/post-formats/views/format-quote.php:5
+#: modules/post-formats/views/format-quote.php:14
+msgid "Quote"
+msgstr ""
+
+#: modules/post-formats/views/format-quote.php:15
+msgid "The text being quoted."
+msgstr ""
+
+#: modules/post-formats/views/format-quote.php:25
+msgid "Source Name"
+msgstr ""
+
+#: modules/post-formats/views/format-quote.php:26
+msgid "The person being cited."
+msgstr ""
+
+#: modules/post-formats/views/format-video.php:5
+msgid "Video Options"
+msgstr ""
+
+#: modules/post-formats/views/format-video.php:7
+msgid ""
+"For HTML5 video support and Flash fallback please include an M4V file. "
+"Include an OGV file optionally to increase cross browser support."
+msgstr ""
+
+#: modules/post-formats/views/format-video.php:13
+msgid "M4V File URL"
+msgstr ""
+
+#: modules/post-formats/views/format-video.php:14
+msgid "The URL to the .m4v video file"
+msgstr ""
+
+#: modules/post-formats/views/format-video.php:24
+msgid "OGV File URL"
+msgstr ""
+
+#: modules/post-formats/views/format-video.php:25
+msgid "The URL to the .ogv video file"
+msgstr ""
+
+#: modules/post-formats/views/format-video.php:35
+msgid "WEBM File URL"
+msgstr ""
+
+#: modules/post-formats/views/format-video.php:36
+msgid "The URL to the .webm video file"
+msgstr ""
+
+#: modules/post-formats/views/format-video.php:46
+msgid "Video Poster"
+msgstr ""
+
+#: modules/post-formats/views/format-video.php:47
+msgid "A preivew image."
+msgstr ""
+
+#: modules/post-formats/views/format-video.php:57
+msgid "Embedded Code"
+msgstr ""
+
+#: modules/post-formats/views/format-video.php:58
+msgid "If not using self hosted video you can include embeded code here."
+msgstr ""
+
+#: modules/post-formats/views/tabs.php:9
+msgid "Standard"
+msgstr ""
+
+#: modules/post-types/static-block/static-block.php:39
+msgid "Add New Block"
+msgstr ""
+
+#: modules/post-types/static-block/static-block.php:40
+msgid "Edit Block"
+msgstr ""
+
+#: modules/post-types/static-block/static-block.php:41
+msgid "New Block"
+msgstr ""
+
+#: modules/post-types/static-block/static-block.php:42
+msgid "Static Blocks"
+msgstr ""
+
+#: modules/post-types/static-block/static-block.php:43
+msgid "View Block"
+msgstr ""
+
+#: modules/post-types/static-block/static-block.php:44
+msgid "Search"
+msgstr ""
+
+#: modules/post-types/static-block/static-block.php:45
+msgid "No blocks found"
+msgstr ""
+
+#: modules/post-types/static-block/static-block.php:46
+msgid "No blocks found in Trash"
+msgstr ""
+
+#: modules/post-types/static-block/static-block.php:48
+msgid "Static Content"
+msgstr ""
+
+#: modules/post-types/static-block/static-block.php:76
+msgid "Content Options"
+msgstr ""
+
+#: modules/post-types/static-block/static-block.php:92
+msgid "Content Filters"
+msgstr ""
+
+#: modules/post-types/static-block/static-block.php:94
+msgid "Defaults (recommended)"
+msgstr ""
+
+#: modules/post-types/static-block/static-block.php:97
+msgid "All Content Filters"
+msgstr ""
+
+#: modules/post-types/static-block/static-block.php:99
+msgid "Apply all WP content filters? This will include plugin added filters."
+msgstr ""
+
+#: modules/post-types/static-block/static-block.php:102
+msgid "Auto Paragraphs"
+msgstr ""
+
+#: modules/post-types/static-block/static-block.php:104
+msgid "On"
+msgstr ""
+
+#: modules/post-types/static-block/static-block.php:107
+msgid "Off"
+msgstr ""
+
+#: modules/post-types/static-block/static-block.php:109
+msgid ""
+"Add &lt;p&gt; and &lt;br&gt; tags automatically. (disabling may fix layout "
+"issues)"
+msgstr ""
+
+#: modules/theme-shortcodes/elements/compare-page.php:19
+msgid "You need to enable YITH Compare plugin for product comparison to work"
+msgstr ""
+
+#: modules/theme-shortcodes/elements/deals-cards-carousel.php:23
+msgid "Previous deal"
+msgstr ""
+
+#: modules/theme-shortcodes/elements/deals-cards-carousel.php:24
+msgid "Next deal"
+msgstr ""
+
+#: techmarket-extensions.php:167 techmarket-extensions.php:176
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Techmarket Extensions"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://themeforest.net/user/shaikrilwan/portfolio"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This selection of extensions compliment our lean and mean theme for "
+"WooCommerce, Techmarket. Please note: they don’t work with any WordPress "
+"theme, just Techmarket."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "shaikrilwan"
+msgstr ""
+
+#: modules/post-types/static-block/static-block.php:36
+msgctxt "post type general name"
+msgid "Static Content Blocks"
+msgstr ""
+
+#: modules/post-types/static-block/static-block.php:37
+msgctxt "post type singular name"
+msgid "Static Block"
+msgstr ""
+
+#: modules/post-types/static-block/static-block.php:38
+msgctxt "block"
+msgid "Add New"
+msgstr ""
